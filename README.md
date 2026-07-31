@@ -20,6 +20,30 @@ This project uses the dataset introduced by Simoiu et al. (2019). The original d
 
 ## Execution Order
 
+### 0. Install requirements
+#### Linux / macOS
+
+```bash
+python3 -m venv .venv
+
+source .venv/bin/activate
+```
+
+#### Windows
+
+```powershell
+python -m venv .venv
+
+.venv\Scripts\activate
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+
 ### 1. Data preprocessing
 
 ```bash
@@ -39,7 +63,7 @@ Filters invalid responses, removes outliers, and produces the final datasets use
 ### 3. Plot generation
 
 ```bash
-jupyter notebook plots.ipynb
+jupyter notebook main.ipynb
 ```
 
 Running all cells reproduces the plots in the paper.
@@ -48,7 +72,8 @@ Running all cells reproduces the plots in the paper.
 
 * `data_processing.py`: merges raw data and computes basic variables
 * `data_cleaning.py`: filters and cleans the dataset
-* `dataset_functions.py`: task-level statistics and aggregation methods
+* `data_analysis.py`: task- and domain-level statistics from data
+* `analysis_utils.py`: helper functions for data analysis
 * `general_utils.py`: shared helper functions
 * `plots.ipynb`: generates all figures
 
