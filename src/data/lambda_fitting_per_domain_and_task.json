@@ -1,0 +1,1259 @@
+{
+    "calories": {
+        "wasserstein": 0.36,
+        "1910": {
+            "wasserstein": 0.25
+        },
+        "1902": {
+            "wasserstein": 0.28
+        },
+        "1901": {
+            "wasserstein": 0.43
+        },
+        "1904": {
+            "wasserstein": 0.34
+        },
+        "1909": {
+            "wasserstein": 0.32
+        },
+        "1908": {
+            "wasserstein": 0.41000000000000003
+        },
+        "1906": {
+            "wasserstein": 0.25
+        },
+        "1903": {
+            "wasserstein": 0.0
+        },
+        "1905": {
+            "wasserstein": 0.4
+        },
+        "1907": {
+            "wasserstein": 0.44
+        },
+        "1914": {
+            "wasserstein": 0.55
+        },
+        "1911": {
+            "wasserstein": 0.56
+        },
+        "1916": {
+            "wasserstein": 0.28
+        },
+        "1917": {
+            "wasserstein": 0.37
+        },
+        "1918": {
+            "wasserstein": 0.44
+        },
+        "1912": {
+            "wasserstein": 0.43
+        },
+        "1915": {
+            "wasserstein": 0.4
+        },
+        "1913": {
+            "wasserstein": 0.27
+        },
+        "1920": {
+            "wasserstein": 0.62
+        },
+        "1919": {
+            "wasserstein": 0.22
+        }
+    },
+    "amazon_price": {
+        "wasserstein": 0.34,
+        "10003": {
+            "wasserstein": 0.0
+        },
+        "10005": {
+            "wasserstein": 0.38
+        },
+        "10009": {
+            "wasserstein": 0.36
+        },
+        "10002": {
+            "wasserstein": 0.19
+        },
+        "10006": {
+            "wasserstein": 0.35000000000000003
+        },
+        "10007": {
+            "wasserstein": 0.25
+        },
+        "10004": {
+            "wasserstein": 0.45
+        },
+        "10008": {
+            "wasserstein": 0.0
+        },
+        "10000": {
+            "wasserstein": 0.21
+        },
+        "10001": {
+            "wasserstein": 0.24
+        },
+        "10014": {
+            "wasserstein": 0.41000000000000003
+        },
+        "10015": {
+            "wasserstein": 0.41000000000000003
+        },
+        "10019": {
+            "wasserstein": 0.4
+        },
+        "10017": {
+            "wasserstein": 0.5
+        },
+        "10010": {
+            "wasserstein": 0.27
+        },
+        "10012": {
+            "wasserstein": 0.0
+        },
+        "10011": {
+            "wasserstein": 0.52
+        },
+        "10018": {
+            "wasserstein": 0.0
+        },
+        "10016": {
+            "wasserstein": 0.0
+        },
+        "10013": {
+            "wasserstein": 0.43
+        }
+    },
+    "book_release_year": {
+        "wasserstein": 0.39,
+        "10065": {
+            "wasserstein": 0.15
+        },
+        "10067": {
+            "wasserstein": 0.41000000000000003
+        },
+        "10064": {
+            "wasserstein": 0.18
+        },
+        "10060": {
+            "wasserstein": 0.26
+        },
+        "10061": {
+            "wasserstein": 0.65
+        },
+        "10062": {
+            "wasserstein": 0.46
+        },
+        "10063": {
+            "wasserstein": 0.5
+        },
+        "10066": {
+            "wasserstein": 0.17
+        },
+        "10069": {
+            "wasserstein": 0.73
+        },
+        "10068": {
+            "wasserstein": 0.5
+        },
+        "10073": {
+            "wasserstein": 0.5700000000000001
+        },
+        "10071": {
+            "wasserstein": 0.85
+        },
+        "10074": {
+            "wasserstein": 0.7000000000000001
+        },
+        "10077": {
+            "wasserstein": 0.53
+        },
+        "10070": {
+            "wasserstein": 0.33
+        },
+        "10076": {
+            "wasserstein": 0.47000000000000003
+        },
+        "10078": {
+            "wasserstein": 0.38
+        },
+        "10072": {
+            "wasserstein": 0.62
+        },
+        "10075": {
+            "wasserstein": 0.78
+        },
+        "10079": {
+            "wasserstein": 0.0
+        }
+    },
+    "car_manufacture_year": {
+        "wasserstein": 0.08,
+        "10128": {
+            "wasserstein": 0.62
+        },
+        "10120": {
+            "wasserstein": 0.5
+        },
+        "10121": {
+            "wasserstein": 0.01
+        },
+        "10126": {
+            "wasserstein": 0.35000000000000003
+        },
+        "10122": {
+            "wasserstein": 0.55
+        },
+        "10124": {
+            "wasserstein": 0.37
+        },
+        "10123": {
+            "wasserstein": 0.01
+        },
+        "10129": {
+            "wasserstein": 0.6
+        },
+        "10125": {
+            "wasserstein": 0.45
+        },
+        "10127": {
+            "wasserstein": 0.33
+        },
+        "10132": {
+            "wasserstein": 0.08
+        },
+        "10133": {
+            "wasserstein": 0.58
+        },
+        "10138": {
+            "wasserstein": 0.5
+        },
+        "10139": {
+            "wasserstein": 0.54
+        },
+        "10135": {
+            "wasserstein": 0.34
+        },
+        "10131": {
+            "wasserstein": 0.38
+        },
+        "10130": {
+            "wasserstein": 0.0
+        },
+        "10134": {
+            "wasserstein": 0.5
+        },
+        "10136": {
+            "wasserstein": 0.33
+        },
+        "10137": {
+            "wasserstein": 0.5
+        }
+    },
+    "celeb_age": {
+        "wasserstein": 0.25,
+        "10142": {
+            "wasserstein": 0.55
+        },
+        "10147": {
+            "wasserstein": 0.25
+        },
+        "10149": {
+            "wasserstein": 0.34
+        },
+        "10148": {
+            "wasserstein": 0.25
+        },
+        "10143": {
+            "wasserstein": 0.0
+        },
+        "10144": {
+            "wasserstein": 0.13
+        },
+        "10146": {
+            "wasserstein": 0.25
+        },
+        "10145": {
+            "wasserstein": 0.25
+        },
+        "10141": {
+            "wasserstein": 0.5
+        },
+        "10140": {
+            "wasserstein": 0.23
+        },
+        "10156": {
+            "wasserstein": 0.5
+        },
+        "10153": {
+            "wasserstein": 0.25
+        },
+        "10154": {
+            "wasserstein": 0.0
+        },
+        "10151": {
+            "wasserstein": 0.15
+        },
+        "10159": {
+            "wasserstein": 0.25
+        },
+        "10150": {
+            "wasserstein": 0.4
+        },
+        "10158": {
+            "wasserstein": 0.46
+        },
+        "10157": {
+            "wasserstein": 0.28
+        },
+        "10155": {
+            "wasserstein": 0.33
+        },
+        "10152": {
+            "wasserstein": 0.34
+        }
+    },
+    "construction_years": {
+        "wasserstein": 0.43,
+        "10200": {
+            "wasserstein": 0.65
+        },
+        "10206": {
+            "wasserstein": 0.24
+        },
+        "10209": {
+            "wasserstein": 0.67
+        },
+        "10201": {
+            "wasserstein": 0.7000000000000001
+        },
+        "10202": {
+            "wasserstein": 0.59
+        },
+        "10207": {
+            "wasserstein": 0.73
+        },
+        "10208": {
+            "wasserstein": 0.1
+        },
+        "10204": {
+            "wasserstein": 0.67
+        },
+        "10205": {
+            "wasserstein": 0.8200000000000001
+        },
+        "10203": {
+            "wasserstein": 0.1
+        },
+        "10215": {
+            "wasserstein": 0.11
+        },
+        "10213": {
+            "wasserstein": 0.5
+        },
+        "10214": {
+            "wasserstein": 0.48
+        },
+        "10217": {
+            "wasserstein": 0.55
+        },
+        "10219": {
+            "wasserstein": 0.67
+        },
+        "10216": {
+            "wasserstein": 0.4
+        },
+        "10210": {
+            "wasserstein": 0.47000000000000003
+        },
+        "10218": {
+            "wasserstein": 0.61
+        },
+        "10211": {
+            "wasserstein": 0.0
+        },
+        "10212": {
+            "wasserstein": 0.5
+        }
+    },
+    "country_size_ratio": {
+        "wasserstein": 0.0,
+        "10307": {
+            "wasserstein": 0.88
+        },
+        "10301": {
+            "wasserstein": 0.0
+        },
+        "10309": {
+            "wasserstein": 0.93
+        },
+        "10305": {
+            "wasserstein": 0.99
+        },
+        "10302": {
+            "wasserstein": 0.96
+        },
+        "10300": {
+            "wasserstein": 0.98
+        },
+        "10306": {
+            "wasserstein": 0.87
+        },
+        "10308": {
+            "wasserstein": 0.9500000000000001
+        },
+        "10303": {
+            "wasserstein": 0.99
+        },
+        "10304": {
+            "wasserstein": 0.9500000000000001
+        },
+        "10312": {
+            "wasserstein": 0.9
+        },
+        "10317": {
+            "wasserstein": 0.93
+        },
+        "10310": {
+            "wasserstein": 0.9400000000000001
+        },
+        "10311": {
+            "wasserstein": 0.34
+        },
+        "10314": {
+            "wasserstein": 0.8200000000000001
+        },
+        "10319": {
+            "wasserstein": 0.92
+        },
+        "10313": {
+            "wasserstein": 0.99
+        },
+        "10315": {
+            "wasserstein": 0.74
+        },
+        "10318": {
+            "wasserstein": 0.89
+        },
+        "10316": {
+            "wasserstein": 0.93
+        }
+    },
+    "distance_map": {
+        "wasserstein": 0.55,
+        "10328": {
+            "wasserstein": 0.54
+        },
+        "10320": {
+            "wasserstein": 0.5
+        },
+        "10329": {
+            "wasserstein": 0.62
+        },
+        "10327": {
+            "wasserstein": 0.53
+        },
+        "10326": {
+            "wasserstein": 0.67
+        },
+        "10323": {
+            "wasserstein": 0.55
+        },
+        "10324": {
+            "wasserstein": 0.5700000000000001
+        },
+        "10322": {
+            "wasserstein": 0.48
+        },
+        "10325": {
+            "wasserstein": 0.2
+        },
+        "10321": {
+            "wasserstein": 0.39
+        },
+        "10334": {
+            "wasserstein": 0.36
+        },
+        "10338": {
+            "wasserstein": 0.5
+        },
+        "10335": {
+            "wasserstein": 0.6
+        },
+        "10337": {
+            "wasserstein": 0.71
+        },
+        "10336": {
+            "wasserstein": 0.6
+        },
+        "10331": {
+            "wasserstein": 0.61
+        },
+        "10333": {
+            "wasserstein": 0.59
+        },
+        "10339": {
+            "wasserstein": 0.63
+        },
+        "10330": {
+            "wasserstein": 0.58
+        },
+        "10332": {
+            "wasserstein": 0.45
+        }
+    },
+    "country_population": {
+        "wasserstein": 0.0,
+        "10268": {
+            "wasserstein": 0.0
+        },
+        "10265": {
+            "wasserstein": 0.0
+        },
+        "10262": {
+            "wasserstein": 0.68
+        },
+        "10269": {
+            "wasserstein": 0.0
+        },
+        "10267": {
+            "wasserstein": 0.28
+        },
+        "10261": {
+            "wasserstein": 0.0
+        },
+        "10266": {
+            "wasserstein": 0.0
+        },
+        "10260": {
+            "wasserstein": 0.0
+        },
+        "10264": {
+            "wasserstein": 0.93
+        },
+        "10263": {
+            "wasserstein": 0.0
+        },
+        "10274": {
+            "wasserstein": 0.32
+        },
+        "10276": {
+            "wasserstein": 0.12
+        },
+        "10278": {
+            "wasserstein": 0.0
+        },
+        "10279": {
+            "wasserstein": 0.0
+        },
+        "10272": {
+            "wasserstein": 0.38
+        },
+        "10270": {
+            "wasserstein": 0.0
+        },
+        "10273": {
+            "wasserstein": 0.53
+        },
+        "10271": {
+            "wasserstein": 0.0
+        },
+        "10275": {
+            "wasserstein": 0.1
+        },
+        "10277": {
+            "wasserstein": 0.0
+        }
+    },
+    "energy": {
+        "wasserstein": 0.68,
+        "10384": {
+            "wasserstein": 0.67
+        },
+        "10387": {
+            "wasserstein": 0.78
+        },
+        "10383": {
+            "wasserstein": 0.52
+        },
+        "10381": {
+            "wasserstein": 0.7000000000000001
+        },
+        "10389": {
+            "wasserstein": 0.48
+        },
+        "10386": {
+            "wasserstein": 0.51
+        },
+        "10380": {
+            "wasserstein": 0.8200000000000001
+        },
+        "10385": {
+            "wasserstein": 0.7000000000000001
+        },
+        "10388": {
+            "wasserstein": 0.41000000000000003
+        },
+        "10382": {
+            "wasserstein": 0.61
+        },
+        "10390": {
+            "wasserstein": 0.72
+        },
+        "10397": {
+            "wasserstein": 0.85
+        },
+        "10391": {
+            "wasserstein": 0.8300000000000001
+        },
+        "10393": {
+            "wasserstein": 0.58
+        },
+        "10398": {
+            "wasserstein": 0.8
+        },
+        "10396": {
+            "wasserstein": 0.78
+        },
+        "10395": {
+            "wasserstein": 0.71
+        },
+        "10392": {
+            "wasserstein": 0.33
+        },
+        "10399": {
+            "wasserstein": 0.77
+        },
+        "10394": {
+            "wasserstein": 0.33
+        }
+    },
+    "historical_events": {
+        "wasserstein": 0.0,
+        "10442": {
+            "wasserstein": 0.6900000000000001
+        },
+        "10449": {
+            "wasserstein": 0.18
+        },
+        "10448": {
+            "wasserstein": 0.0
+        },
+        "10446": {
+            "wasserstein": 0.8
+        },
+        "10444": {
+            "wasserstein": 0.0
+        },
+        "10447": {
+            "wasserstein": 0.5
+        },
+        "10445": {
+            "wasserstein": 0.25
+        },
+        "10440": {
+            "wasserstein": 0.0
+        },
+        "10443": {
+            "wasserstein": 0.33
+        },
+        "10441": {
+            "wasserstein": 0.22
+        },
+        "10450": {
+            "wasserstein": 0.16
+        },
+        "10452": {
+            "wasserstein": 0.42
+        },
+        "10453": {
+            "wasserstein": 0.6900000000000001
+        },
+        "10456": {
+            "wasserstein": 0.0
+        },
+        "10454": {
+            "wasserstein": 0.8
+        },
+        "10455": {
+            "wasserstein": 0.34
+        },
+        "10458": {
+            "wasserstein": 0.36
+        },
+        "10457": {
+            "wasserstein": 0.29
+        },
+        "10451": {
+            "wasserstein": 0.53
+        },
+        "10459": {
+            "wasserstein": 0.06
+        }
+    },
+    "gdp": {
+        "wasserstein": 0.31,
+        "10426": {
+            "wasserstein": 0.0
+        },
+        "10420": {
+            "wasserstein": 0.32
+        },
+        "10424": {
+            "wasserstein": 0.15
+        },
+        "10422": {
+            "wasserstein": 0.5
+        },
+        "10425": {
+            "wasserstein": 0.27
+        },
+        "10429": {
+            "wasserstein": 0.4
+        },
+        "10427": {
+            "wasserstein": 0.42
+        },
+        "10423": {
+            "wasserstein": 0.32
+        },
+        "10428": {
+            "wasserstein": 0.0
+        },
+        "10421": {
+            "wasserstein": 0.37
+        },
+        "10436": {
+            "wasserstein": 0.31
+        },
+        "10439": {
+            "wasserstein": 0.55
+        },
+        "10433": {
+            "wasserstein": 0.0
+        },
+        "10430": {
+            "wasserstein": 0.51
+        },
+        "10438": {
+            "wasserstein": 0.42
+        },
+        "10431": {
+            "wasserstein": 0.34
+        },
+        "10435": {
+            "wasserstein": 0.18
+        },
+        "10437": {
+            "wasserstein": 0.45
+        },
+        "10432": {
+            "wasserstein": 0.06
+        },
+        "10434": {
+            "wasserstein": 0.48
+        }
+    },
+    "object_weight": {
+        "wasserstein": 0.62,
+        "10668": {
+            "wasserstein": 0.0
+        },
+        "10661": {
+            "wasserstein": 0.38
+        },
+        "10663": {
+            "wasserstein": 0.34
+        },
+        "10666": {
+            "wasserstein": 0.0
+        },
+        "10667": {
+            "wasserstein": 0.63
+        },
+        "10669": {
+            "wasserstein": 0.71
+        },
+        "10664": {
+            "wasserstein": 0.0
+        },
+        "10660": {
+            "wasserstein": 0.67
+        },
+        "10662": {
+            "wasserstein": 0.25
+        },
+        "10665": {
+            "wasserstein": 0.5
+        },
+        "10677": {
+            "wasserstein": 0.45
+        },
+        "10672": {
+            "wasserstein": 0.29
+        },
+        "10674": {
+            "wasserstein": 0.44
+        },
+        "10679": {
+            "wasserstein": 0.34
+        },
+        "10673": {
+            "wasserstein": 0.0
+        },
+        "10670": {
+            "wasserstein": 0.0
+        },
+        "10671": {
+            "wasserstein": 0.0
+        },
+        "10675": {
+            "wasserstein": 0.0
+        },
+        "10678": {
+            "wasserstein": 0.28
+        },
+        "10676": {
+            "wasserstein": 0.5
+        }
+    },
+    "painting_year": {
+        "wasserstein": 0.34,
+        "10681": {
+            "wasserstein": 0.74
+        },
+        "10685": {
+            "wasserstein": 0.47000000000000003
+        },
+        "10688": {
+            "wasserstein": 0.01
+        },
+        "10686": {
+            "wasserstein": 0.64
+        },
+        "10682": {
+            "wasserstein": 0.59
+        },
+        "10683": {
+            "wasserstein": 0.75
+        },
+        "10687": {
+            "wasserstein": 0.0
+        },
+        "10680": {
+            "wasserstein": 0.28
+        },
+        "10689": {
+            "wasserstein": 0.46
+        },
+        "10684": {
+            "wasserstein": 0.75
+        },
+        "10698": {
+            "wasserstein": 0.6900000000000001
+        },
+        "10692": {
+            "wasserstein": 0.5700000000000001
+        },
+        "10697": {
+            "wasserstein": 0.6
+        },
+        "10696": {
+            "wasserstein": 0.38
+        },
+        "10690": {
+            "wasserstein": 0.56
+        },
+        "10694": {
+            "wasserstein": 0.4
+        },
+        "10695": {
+            "wasserstein": 0.66
+        },
+        "10699": {
+            "wasserstein": 0.42
+        },
+        "10691": {
+            "wasserstein": 0.55
+        },
+        "10693": {
+            "wasserstein": 0.46
+        }
+    },
+    "prediction_oscars": {
+        "wasserstein": 0.12,
+        "10763": {
+            "wasserstein": 0.11
+        },
+        "10761": {
+            "wasserstein": 0.11
+        },
+        "10760": {
+            "wasserstein": 0.0
+        },
+        "10769": {
+            "wasserstein": 0.16
+        },
+        "10768": {
+            "wasserstein": 0.15
+        },
+        "10762": {
+            "wasserstein": 0.0
+        },
+        "10765": {
+            "wasserstein": 0.21
+        },
+        "10764": {
+            "wasserstein": 0.11
+        },
+        "10767": {
+            "wasserstein": 0.14
+        },
+        "10766": {
+            "wasserstein": 0.2
+        },
+        "10770": {
+            "wasserstein": 0.2
+        },
+        "10771": {
+            "wasserstein": 0.0
+        },
+        "10776": {
+            "wasserstein": 0.21
+        },
+        "10777": {
+            "wasserstein": 0.2
+        },
+        "10775": {
+            "wasserstein": 0.17
+        },
+        "10778": {
+            "wasserstein": 0.0
+        },
+        "10774": {
+            "wasserstein": 0.1
+        },
+        "10772": {
+            "wasserstein": 0.16
+        },
+        "10779": {
+            "wasserstein": 0.12
+        },
+        "10773": {
+            "wasserstein": 0.02
+        }
+    },
+    "retweets": {
+        "wasserstein": 0.0,
+        "10804": {
+            "wasserstein": 0.85
+        },
+        "10806": {
+            "wasserstein": 0.0
+        },
+        "10800": {
+            "wasserstein": 0.01
+        },
+        "10802": {
+            "wasserstein": 0.73
+        },
+        "10809": {
+            "wasserstein": 0.0
+        },
+        "10807": {
+            "wasserstein": 0.01
+        },
+        "10805": {
+            "wasserstein": 0.0
+        },
+        "10803": {
+            "wasserstein": 0.0
+        },
+        "10808": {
+            "wasserstein": 0.0
+        },
+        "10817": {
+            "wasserstein": 0.0
+        },
+        "10811": {
+            "wasserstein": 0.07
+        },
+        "10813": {
+            "wasserstein": 0.0
+        },
+        "10818": {
+            "wasserstein": 0.0
+        },
+        "10815": {
+            "wasserstein": 0.0
+        },
+        "10814": {
+            "wasserstein": 0.97
+        },
+        "10812": {
+            "wasserstein": 0.01
+        },
+        "10810": {
+            "wasserstein": 0.0
+        },
+        "10819": {
+            "wasserstein": 0.0
+        },
+        "10816": {
+            "wasserstein": 0.01
+        },
+        "10801": {
+            "wasserstein": 0.81
+        }
+    },
+    "prediction_business": {
+        "wasserstein": 0.25,
+        "10721": {
+            "wasserstein": 0.09
+        },
+        "10723": {
+            "wasserstein": 0.15
+        },
+        "10726": {
+            "wasserstein": 0.2
+        },
+        "10729": {
+            "wasserstein": 0.3
+        },
+        "10722": {
+            "wasserstein": 0.25
+        },
+        "10725": {
+            "wasserstein": 0.43
+        },
+        "10727": {
+            "wasserstein": 0.23
+        },
+        "10728": {
+            "wasserstein": 0.09
+        },
+        "10720": {
+            "wasserstein": 0.2
+        },
+        "10724": {
+            "wasserstein": 0.19
+        },
+        "10731": {
+            "wasserstein": 0.4
+        },
+        "10739": {
+            "wasserstein": 0.2
+        },
+        "10730": {
+            "wasserstein": 0.26
+        },
+        "10735": {
+            "wasserstein": 0.14
+        },
+        "10732": {
+            "wasserstein": 0.32
+        },
+        "10734": {
+            "wasserstein": 0.19
+        },
+        "10736": {
+            "wasserstein": 0.25
+        },
+        "10738": {
+            "wasserstein": 0.2
+        },
+        "10737": {
+            "wasserstein": 0.37
+        },
+        "10733": {
+            "wasserstein": 0.39
+        }
+    },
+    "movie_year": {
+        "wasserstein": 0.0,
+        "10600": {
+            "wasserstein": 0.0
+        },
+        "10605": {
+            "wasserstein": 0.0
+        },
+        "10609": {
+            "wasserstein": 0.0
+        },
+        "10608": {
+            "wasserstein": 0.0
+        },
+        "10603": {
+            "wasserstein": 0.0
+        },
+        "10601": {
+            "wasserstein": 0.0
+        },
+        "10602": {
+            "wasserstein": 0.0
+        },
+        "10606": {
+            "wasserstein": 0.0
+        },
+        "10607": {
+            "wasserstein": 0.0
+        },
+        "10604": {
+            "wasserstein": 0.0
+        },
+        "10611": {
+            "wasserstein": 0.0
+        },
+        "10612": {
+            "wasserstein": 0.0
+        },
+        "10619": {
+            "wasserstein": 0.0
+        },
+        "10617": {
+            "wasserstein": 0.0
+        },
+        "10618": {
+            "wasserstein": 0.0
+        },
+        "10610": {
+            "wasserstein": 0.0
+        },
+        "10614": {
+            "wasserstein": 0.0
+        },
+        "10615": {
+            "wasserstein": 0.0
+        },
+        "10613": {
+            "wasserstein": 0.0
+        },
+        "10616": {
+            "wasserstein": 0.0
+        }
+    },
+    "prediction_movie_rating": {
+        "wasserstein": 0.42,
+        "10749": {
+            "wasserstein": 0.34
+        },
+        "10740": {
+            "wasserstein": 0.24
+        },
+        "10742": {
+            "wasserstein": 0.5
+        },
+        "10747": {
+            "wasserstein": 0.38
+        },
+        "10743": {
+            "wasserstein": 0.46
+        },
+        "10745": {
+            "wasserstein": 0.34
+        },
+        "10744": {
+            "wasserstein": 0.28
+        },
+        "10748": {
+            "wasserstein": 0.41000000000000003
+        },
+        "10741": {
+            "wasserstein": 0.4
+        },
+        "10746": {
+            "wasserstein": 0.48
+        },
+        "10753": {
+            "wasserstein": 0.5
+        },
+        "10757": {
+            "wasserstein": 0.36
+        },
+        "10750": {
+            "wasserstein": 0.5
+        },
+        "10751": {
+            "wasserstein": 0.45
+        },
+        "10759": {
+            "wasserstein": 0.34
+        },
+        "10754": {
+            "wasserstein": 0.5
+        },
+        "10756": {
+            "wasserstein": 0.61
+        },
+        "10755": {
+            "wasserstein": 0.45
+        },
+        "10758": {
+            "wasserstein": 0.18
+        }
+    },
+    "prediction_political": {
+        "wasserstein": 0.0,
+        "10781": {
+            "wasserstein": 0.05
+        },
+        "10782": {
+            "wasserstein": 0.0
+        },
+        "10785": {
+            "wasserstein": 0.0
+        },
+        "10780": {
+            "wasserstein": 0.0
+        },
+        "10783": {
+            "wasserstein": 0.0
+        },
+        "10784": {
+            "wasserstein": 0.0
+        },
+        "10788": {
+            "wasserstein": 0.2
+        },
+        "10789": {
+            "wasserstein": 0.0
+        },
+        "10786": {
+            "wasserstein": 0.25
+        },
+        "10787": {
+            "wasserstein": 0.0
+        },
+        "10793": {
+            "wasserstein": 0.18
+        },
+        "10795": {
+            "wasserstein": 0.15
+        },
+        "10798": {
+            "wasserstein": 0.06
+        },
+        "10791": {
+            "wasserstein": 0.1
+        },
+        "10794": {
+            "wasserstein": 0.03
+        },
+        "10790": {
+            "wasserstein": 0.0
+        },
+        "10792": {
+            "wasserstein": 0.18
+        },
+        "10797": {
+            "wasserstein": 0.0
+        },
+        "10799": {
+            "wasserstein": 0.09
+        },
+        "10796": {
+            "wasserstein": 0.06
+        }
+    }
+}

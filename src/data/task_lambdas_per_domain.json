@@ -1,0 +1,23 @@
+{
+    "calories": 0.43,
+    "amazon_price": 0.54,
+    "book_release_year": 0.8,
+    "car_manufacture_year": 0.42,
+    "celeb_age": 0.0,
+    "construction_years": 0.65,
+    "country_size_ratio": 0.0,
+    "distance_map": 0.5,
+    "country_population": 0.0,
+    "energy": 0.5,
+    "historical_events": 0.0,
+    "gdp": 0.64,
+    "object_weight": 0.37,
+    "painting_year": 0.75,
+    "prediction_oscars": 0.31,
+    "retweets": 0.5,
+    "prediction_business": 0.26,
+    "movie_year": 0.5,
+    "prediction_movie_rating": 0.66,
+    "prediction_political": 0.17,
+    "spatial_reasoning": 0.0
+}

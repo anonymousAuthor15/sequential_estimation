@@ -1,0 +1,51 @@
+"domain_id","domain_name","domain_description","knowledge_type","media_type","answer_type","time_limit"
+1,"logic","You will be given 20 logical reasoning questions, and asked to select the correct answer.","tacit","image","discrete",30
+2,"emotion_eyes","You will be shown 20 pictures of just the eyes of people's faces, and asked to guess what emotion they are showing.","tacit","image","discrete",30
+3,"cup_magic","You will be asked to watch 20 short videos of the Cups and Balls magic trick, and identify the location of the ball at the end of the trick.","spatial reasoning","video","discrete",45
+4,"trees","You will shown 20 images of trees, and asked to identify the species.","knowledge","image","discrete",30
+5,"celeb_age","You will be given the names of 20 U.S. celebrities, and asked to estimate their age.","pop culture","none","open-ended",30
+7,"historical_monuments","You will be shown 20 images of architectural landmarks from around the world, and asked to select the country where the landmark is located.","knowledge","image","discrete",30
+11,"car_manufacture_year","You will shown 20 images of Ford cars, and asked to estimate their year of manufacture.","knowledge","image","open-ended",30
+12,"penalty_kick","We will now ask you a series of binary response questions. For each question, we will show you a video of a footballer (soccer player) taking a penalty kick and his last two attempted penalty directions (prior to the one being shown). You have to guess the direction in which he would have kicked the ball in the penalty being shown.","tacit","video","discrete",45
+15,"movie_year","You will be shown 20 images of Hollywood movie posters, and asked to estimate the year each movie was released.","pop culture","image","open-ended",30
+16,"book_release_year","You will be asked to estimate the year of publication of 20 books, given the book's title and author.","knowledge","image","open-ended",30
+19,"calories","You will be shown 20 food items with their images and asked to guess its number of calories.","tacit","image","open-ended",30
+20,"prediction_business","You will be given 20 technology and business events, and asked to predict how likely they are to occur in 2017. Please enter a number between 0 and 100, where 0 means no way it will happen, 50 means there is 50-50 chance it will happen, and 100 means it will definitely happen.","prediction","none","open-ended",30
+22,"distance_map","You will be given a set of 20 pairs of cities and the state in which they are located, and asked to estimate the distance between them.","spatial reasoning","none","open-ended",30
+25,"dog_breeds","You will be shown 20 images of dogs, and asked to identify their breed.","knowledge","image","discrete",30
+28,"language_text","In this round, you will be shown 20 sample texts, and asked to identify the language in which they are written.","knowledge","image","discrete",30
+30,"artists_name","You will be asked to listen to 20 short (15-second) audio clips of current, mainstream songs, and asked to identify the artist/band who interpreted each song.","pop culture","audio","discrete",45
+31,"news_real","You will be given 20 news stories about the 2016 U.S. election, and asked whether they were real or fake.","tacit","image","discrete",30
+33,"country_currency","You will shown 20 images of financial bills, and asked to select their country of origin.","knowledge","image","discrete",30
+34,"constellation_name","You will shown 20 images of constellations and asked to name them.","knowledge","image","discrete",30
+37,"object_weight","You will be shown 20 images of common, every-day objects, and asked to estimate their weight.","spatial reasoning","image","open-ended",30
+39,"amazon_price","You will be asked to estimate the Amazon price in USD for 20 electronic products, given their image and specifications.","tacit","image","open-ended",30
+40,"business_idea","You will be asked to guess if a certain product will be funded or not by Kickstarter, given its image and specifications.","tacit","image","discrete",30
+41,"country_flag","You will be shown 20 images of flags from around the world, and asked to identify their country of origin.","knowledge","image","discrete",30
+45,"construction_years","You will shown 20 images of famous buildings from around the world, and asked to estimate the year in which the building was completed.","knowledge","image","open-ended",30
+51,"country_population","You will given the names of 20 countries, and asked to estimate their population as of July 1, 2016.","knowledge","image","open-ended",30
+52,"classical_composition","You will be asked to listen to 20 audio clips of classical compositions, and asked to identify the composer.","knowledge","audio","discrete",45
+53,"song_movie","You will be provided with 20 short audio files with theme songs from various movies, and asked to select the movie it was featured in.","pop culture","audio","discrete",45
+54,"sat_verbal","You will be given 20 words, and asked to identify the correct synonym corresponding to each word.","knowledge","none","discrete",30
+56,"magazines","You will be given 20 headlines, and asked to identify the magazine that published the article.","pop culture","image","discrete",30
+60,"country_shape","You will shown 20 images showing the land border of countries from around the world, and asked to identify the country they correspond to.","knowledge","image","discrete",30
+71,"spatial_reasoning","You will be given 20 spatial reasoning questions, and asked to select the correct answer.","spatial reasoning","image","discrete",30
+72,"gdp","You will be given the names of 20 counties and asked to estimate their per-capita GDP in US dollars. As reference, the per-capita GDP of the USA is $52,550.","knowledge","none","open-ended",30
+73,"idioms","You will be given 20 idioms, and asked to identify their meaning. An idiom is a group of words that have a meaning not deducible from those of the individual words (e.g., rain cats and dogs, see the light ).","tacit","none","discrete",30
+74,"language_audio","You will be given 20 short audio clips of foreign languages, and asked to identify the language.","tacit","audio","discrete",45
+75,"prediction_oscars","In each of 20 questions, you will be given an Oscar Award category and a nominated movie, actor, director, etc., and asked to estimate the likelihood that the nominee will win the Academy Award.","prediction","image","open-ended",30
+78,"legal_rights","You will be asked 20 questions regarding civil rights in the United States relating to privacy and police encouters.","tacit","image","discrete",30
+81,"energy","You will be given 20 electronic appliances, and asked to estimate their average energy consumption in Watts.","tacit","image","open-ended",30
+85,"prediction_basketball","You will be given 20 US college basketball teams, and asked to predict which round they will make it to in the NCAA Tournament, taking place in March 2017?","prediction","none","discrete",30
+86,"painting_year","You will be given 20 images of famous paintings, and asked to estimate the year in which they were created.","knowledge","image","open-ended",30
+87,"musical_instruments","You will be given 20 short audio clips of a musical instrument, and asked to identify the instrument.","tacit","audio","discrete",45
+90,"retweets","You will be given 20 of the most popular tweets from Katy Perry (an American singer and songwriter), and asked to predict the number of retweets they will accumulate. As reference, an average Katie Perry tweet generates approximately 2,000 retweets.","pop culture","image","open-ended",30
+91,"soft_skills","You will be given 20 questions related to negotiation skills, business ethics, and interview skills, and asked to select the correct response.","tacit","image","discrete",30
+94,"holidays","You will be given the name of 20 U.S. and well-known international holidays, and asked on which they will fall in 2017.","knowledge","none","discrete",30
+95,"historical_events","You will be given the name of 20 events in U.S. history, and asked to estimate the year in which they took place.","knowledge","none","open-ended",30
+96,"flowers","You will be given 20 images of flowers, and asked to identify them.","knowledge","image","discrete",30
+97,"country_size_ratio","You will be given the names and flags of 20 countries, and asked to estimate their size (land area) relative to the continental U.S.","spatial reasoning","image","open-ended",30
+98,"brands_popularity","You will be given 20 consumer products and four brands selling that product, and asked to select the brand that is most popular in the U.S. based on sales in 2015/2016.","pop culture","none","discrete",30
+99,"analogies","An analogy compares the relationship between two things or ideas to highlight some point of similarity. You will be given 20 pairs of words bearing a relationship, and asked to select another pair of words that illustrate a similar relationship.","knowledge","none","discrete",30
+101,"prediction_movie_rating","You will be shown the first 30 seconds from the trailers of 20 upcoming movies, and asked to estimate their rating on Rotten Tomatoes. Please enter a number between 0 and 100, where 0 is the lowest rating, and 100 the highest.","prediction","image","open-ended",30
+102,"prediction_political","You will be given 20 US and international political events, and asked to predict how likely they are to occur in 2017. Please enter a number between 0 and 100, where 0 means no way it will happen, 50 means there is 50-50 chance it will happen, and 100 means it will definitely happen.","prediction","none","open-ended",30

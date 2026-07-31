@@ -1,0 +1,1598 @@
+{
+    "1910": {
+        "lambda_domain": 49.63,
+        "lambda_zero": 33.7
+    },
+    "1902": {
+        "lambda_domain": 55.73,
+        "lambda_zero": 40.915
+    },
+    "10003": {
+        "lambda_domain": 31.535,
+        "lambda_zero": 31.535
+    },
+    "1901": {
+        "lambda_domain": 57.085,
+        "lambda_zero": 38.245
+    },
+    "10065": {
+        "lambda_domain": 11.235,
+        "lambda_zero": 10.755
+    },
+    "1904": {
+        "lambda_domain": 58.69,
+        "lambda_zero": 41.065
+    },
+    "1909": {
+        "lambda_domain": 55.01,
+        "lambda_zero": 39.805
+    },
+    "10067": {
+        "lambda_domain": 11.11,
+        "lambda_zero": 9.67
+    },
+    "1908": {
+        "lambda_domain": 55.59,
+        "lambda_zero": 37.905
+    },
+    "10005": {
+        "lambda_domain": 60.07,
+        "lambda_zero": 48.855
+    },
+    "10064": {
+        "lambda_domain": 10.77,
+        "lambda_zero": 10.09
+    },
+    "1906": {
+        "lambda_domain": 53.705,
+        "lambda_zero": 36.365
+    },
+    "10009": {
+        "lambda_domain": 59.85,
+        "lambda_zero": 44.985
+    },
+    "10060": {
+        "lambda_domain": 12.26,
+        "lambda_zero": 10.795
+    },
+    "10002": {
+        "lambda_domain": 56.265,
+        "lambda_zero": 39.82
+    },
+    "1903": {
+        "lambda_domain": 40.75,
+        "lambda_zero": 40.75
+    },
+    "10061": {
+        "lambda_domain": 12.875,
+        "lambda_zero": 11.365
+    },
+    "10006": {
+        "lambda_domain": 59.29,
+        "lambda_zero": 40.635
+    },
+    "10128": {
+        "lambda_domain": 27.64,
+        "lambda_zero": 20.045
+    },
+    "1905": {
+        "lambda_domain": 57.355,
+        "lambda_zero": 44.9
+    },
+    "10062": {
+        "lambda_domain": 13.485,
+        "lambda_zero": 12.705
+    },
+    "10007": {
+        "lambda_domain": 57.72,
+        "lambda_zero": 45.66
+    },
+    "10142": {
+        "lambda_domain": 31.995,
+        "lambda_zero": 25.38
+    },
+    "10063": {
+        "lambda_domain": 11.345,
+        "lambda_zero": 11.28
+    },
+    "10004": {
+        "lambda_domain": 64.93,
+        "lambda_zero": 48.575
+    },
+    "10120": {
+        "lambda_domain": 26.575,
+        "lambda_zero": 19.03
+    },
+    "1907": {
+        "lambda_domain": 54.865,
+        "lambda_zero": 43.385
+    },
+    "10066": {
+        "lambda_domain": 12.325,
+        "lambda_zero": 11.855
+    },
+    "1914": {
+        "lambda_domain": 58.655,
+        "lambda_zero": 43.59
+    },
+    "10200": {
+        "lambda_domain": 17.72,
+        "lambda_zero": 15.24
+    },
+    "10008": {
+        "lambda_domain": 45.24,
+        "lambda_zero": 45.24
+    },
+    "10147": {
+        "lambda_domain": 26.52,
+        "lambda_zero": 19.59
+    },
+    "1911": {
+        "lambda_domain": 61.915,
+        "lambda_zero": 49.87
+    },
+    "10069": {
+        "lambda_domain": 11.3,
+        "lambda_zero": 9.945
+    },
+    "10000": {
+        "lambda_domain": 58.99,
+        "lambda_zero": 49.195
+    },
+    "10121": {
+        "lambda_domain": 22.615,
+        "lambda_zero": 18.955
+    },
+    "10149": {
+        "lambda_domain": 26.895,
+        "lambda_zero": 18.775
+    },
+    "10068": {
+        "lambda_domain": 14.415,
+        "lambda_zero": 12.91
+    },
+    "10206": {
+        "lambda_domain": 18.16,
+        "lambda_zero": 16.035
+    },
+    "1916": {
+        "lambda_domain": 58.09,
+        "lambda_zero": 42.865
+    },
+    "10001": {
+        "lambda_domain": 62.7,
+        "lambda_zero": 44.19
+    },
+    "10307": {
+        "lambda_domain": 38.965,
+        "lambda_zero": 26.245
+    },
+    "10148": {
+        "lambda_domain": 25.295,
+        "lambda_zero": 18.53
+    },
+    "10328": {
+        "lambda_domain": 47.165,
+        "lambda_zero": 32.835
+    },
+    "1917": {
+        "lambda_domain": 53.765,
+        "lambda_zero": 37.58
+    },
+    "10143": {
+        "lambda_domain": 23.7,
+        "lambda_zero": 23.7
+    },
+    "10014": {
+        "lambda_domain": 57.75,
+        "lambda_zero": 44.61
+    },
+    "10126": {
+        "lambda_domain": 25.17,
+        "lambda_zero": 20.495
+    },
+    "10301": {
+        "lambda_domain": 28.735,
+        "lambda_zero": 28.735
+    },
+    "10073": {
+        "lambda_domain": 10.665,
+        "lambda_zero": 10.13
+    },
+    "1918": {
+        "lambda_domain": 56.525,
+        "lambda_zero": 42.915
+    },
+    "10268": {
+        "lambda_domain": 29.56,
+        "lambda_zero": 29.56
+    },
+    "10015": {
+        "lambda_domain": 55.575,
+        "lambda_zero": 43.15
+    },
+    "10071": {
+        "lambda_domain": 12.99,
+        "lambda_zero": 11.48
+    },
+    "10309": {
+        "lambda_domain": 43.375,
+        "lambda_zero": 28.24
+    },
+    "10144": {
+        "lambda_domain": 24.2,
+        "lambda_zero": 21.3
+    },
+    "1912": {
+        "lambda_domain": 56.665,
+        "lambda_zero": 38.26
+    },
+    "10019": {
+        "lambda_domain": 60.98,
+        "lambda_zero": 46.455
+    },
+    "10074": {
+        "lambda_domain": 12.225,
+        "lambda_zero": 10.545
+    },
+    "10209": {
+        "lambda_domain": 22.66,
+        "lambda_zero": 20.235
+    },
+    "10305": {
+        "lambda_domain": 47.105,
+        "lambda_zero": 28.245
+    },
+    "1915": {
+        "lambda_domain": 58.85,
+        "lambda_zero": 41.34
+    },
+    "10122": {
+        "lambda_domain": 26.51,
+        "lambda_zero": 19.75
+    },
+    "10017": {
+        "lambda_domain": 58.27,
+        "lambda_zero": 43.34
+    },
+    "10146": {
+        "lambda_domain": 23.815,
+        "lambda_zero": 18.275
+    },
+    "10077": {
+        "lambda_domain": 10.22,
+        "lambda_zero": 9.64
+    },
+    "10302": {
+        "lambda_domain": 46.92,
+        "lambda_zero": 31.935
+    },
+    "1913": {
+        "lambda_domain": 56.47,
+        "lambda_zero": 45.175
+    },
+    "10265": {
+        "lambda_domain": 24.885,
+        "lambda_zero": 24.885
+    },
+    "10145": {
+        "lambda_domain": 25.99,
+        "lambda_zero": 19.85
+    },
+    "10010": {
+        "lambda_domain": 57.895,
+        "lambda_zero": 40.08
+    },
+    "10070": {
+        "lambda_domain": 11.905,
+        "lambda_zero": 11.2
+    },
+    "10300": {
+        "lambda_domain": 45.315,
+        "lambda_zero": 29.53
+    },
+    "10384": {
+        "lambda_domain": 51.935,
+        "lambda_zero": 36.98
+    },
+    "10442": {
+        "lambda_domain": 4.565,
+        "lambda_zero": 4.45
+    },
+    "10124": {
+        "lambda_domain": 24.325,
+        "lambda_zero": 20.835
+    },
+    "10141": {
+        "lambda_domain": 27.095,
+        "lambda_zero": 20.63
+    },
+    "10012": {
+        "lambda_domain": 50.295,
+        "lambda_zero": 50.295
+    },
+    "1920": {
+        "lambda_domain": 55.59,
+        "lambda_zero": 43.14
+    },
+    "10306": {
+        "lambda_domain": 38.9,
+        "lambda_zero": 26.62
+    },
+    "10076": {
+        "lambda_domain": 11.725,
+        "lambda_zero": 11.075
+    },
+    "10262": {
+        "lambda_domain": 36.725,
+        "lambda_zero": 29.065
+    },
+    "10201": {
+        "lambda_domain": 26.595,
+        "lambda_zero": 18.225
+    },
+    "10140": {
+        "lambda_domain": 25.455,
+        "lambda_zero": 16.38
+    },
+    "10449": {
+        "lambda_domain": 4.385,
+        "lambda_zero": 4.37
+    },
+    "10011": {
+        "lambda_domain": 64.605,
+        "lambda_zero": 43.165
+    },
+    "1919": {
+        "lambda_domain": 56.13,
+        "lambda_zero": 43.325
+    },
+    "10078": {
+        "lambda_domain": 11.25,
+        "lambda_zero": 10.305
+    },
+    "10426": {
+        "lambda_domain": 28.535,
+        "lambda_zero": 28.535
+    },
+    "10156": {
+        "lambda_domain": 30.76,
+        "lambda_zero": 22.725
+    },
+    "10018": {
+        "lambda_domain": 40.255,
+        "lambda_zero": 40.255
+    },
+    "10123": {
+        "lambda_domain": 25.175,
+        "lambda_zero": 22.545
+    },
+    "10308": {
+        "lambda_domain": 44.81,
+        "lambda_zero": 31.005
+    },
+    "10072": {
+        "lambda_domain": 12.485,
+        "lambda_zero": 11.075
+    },
+    "10016": {
+        "lambda_domain": 46.6,
+        "lambda_zero": 46.6
+    },
+    "10153": {
+        "lambda_domain": 22.94,
+        "lambda_zero": 15.115
+    },
+    "10269": {
+        "lambda_domain": 27.63,
+        "lambda_zero": 27.63
+    },
+    "10303": {
+        "lambda_domain": 48.64,
+        "lambda_zero": 30.02
+    },
+    "10448": {
+        "lambda_domain": 2.315,
+        "lambda_zero": 2.315
+    },
+    "10075": {
+        "lambda_domain": 13.315,
+        "lambda_zero": 11.735
+    },
+    "10387": {
+        "lambda_domain": 54.265,
+        "lambda_zero": 34.215
+    },
+    "10013": {
+        "lambda_domain": 58.055,
+        "lambda_zero": 46.74
+    },
+    "10154": {
+        "lambda_domain": 16.61,
+        "lambda_zero": 16.61
+    },
+    "10202": {
+        "lambda_domain": 19.53,
+        "lambda_zero": 17.775
+    },
+    "10267": {
+        "lambda_domain": 31.895,
+        "lambda_zero": 27.98
+    },
+    "10129": {
+        "lambda_domain": 28.735,
+        "lambda_zero": 23.915
+    },
+    "10304": {
+        "lambda_domain": 46.545,
+        "lambda_zero": 28.265
+    },
+    "10446": {
+        "lambda_domain": 4.585,
+        "lambda_zero": 4.635
+    },
+    "10420": {
+        "lambda_domain": 32.01,
+        "lambda_zero": 25.06
+    },
+    "10668": {
+        "lambda_domain": 7.935,
+        "lambda_zero": 7.935
+    },
+    "10151": {
+        "lambda_domain": 26.74,
+        "lambda_zero": 18.3
+    },
+    "10079": {
+        "lambda_domain": 10.55,
+        "lambda_zero": 10.55
+    },
+    "10312": {
+        "lambda_domain": 39.35,
+        "lambda_zero": 27.49
+    },
+    "10159": {
+        "lambda_domain": 22.845,
+        "lambda_zero": 14.255
+    },
+    "10261": {
+        "lambda_domain": 34.405,
+        "lambda_zero": 34.405
+    },
+    "10125": {
+        "lambda_domain": 27.545,
+        "lambda_zero": 21.225
+    },
+    "10444": {
+        "lambda_domain": 3.995,
+        "lambda_zero": 3.995
+    },
+    "10424": {
+        "lambda_domain": 27.86,
+        "lambda_zero": 25.105
+    },
+    "10317": {
+        "lambda_domain": 47.18,
+        "lambda_zero": 29.495
+    },
+    "10150": {
+        "lambda_domain": 27.72,
+        "lambda_zero": 18.12
+    },
+    "10383": {
+        "lambda_domain": 49.935,
+        "lambda_zero": 32.185
+    },
+    "10207": {
+        "lambda_domain": 20.645,
+        "lambda_zero": 18.31
+    },
+    "10447": {
+        "lambda_domain": 4.27,
+        "lambda_zero": 4.195
+    },
+    "10310": {
+        "lambda_domain": 42.9,
+        "lambda_zero": 30.63
+    },
+    "10661": {
+        "lambda_domain": 32.21,
+        "lambda_zero": 23.25
+    },
+    "10422": {
+        "lambda_domain": 35.09,
+        "lambda_zero": 29.455
+    },
+    "10158": {
+        "lambda_domain": 29.64,
+        "lambda_zero": 22.545
+    },
+    "10127": {
+        "lambda_domain": 28.2,
+        "lambda_zero": 22.625
+    },
+    "10445": {
+        "lambda_domain": 4.42,
+        "lambda_zero": 4.34
+    },
+    "10311": {
+        "lambda_domain": 36.555,
+        "lambda_zero": 28.805
+    },
+    "10681": {
+        "lambda_domain": 17.92,
+        "lambda_zero": 15.455
+    },
+    "10763": {
+        "lambda_domain": 62.775,
+        "lambda_zero": 48.225
+    },
+    "10157": {
+        "lambda_domain": 25.525,
+        "lambda_zero": 19.715
+    },
+    "10804": {
+        "lambda_domain": 52.315,
+        "lambda_zero": 31.105
+    },
+    "10266": {
+        "lambda_domain": 35.025,
+        "lambda_zero": 35.025
+    },
+    "10663": {
+        "lambda_domain": 30.62,
+        "lambda_zero": 21.59
+    },
+    "10425": {
+        "lambda_domain": 30.87,
+        "lambda_zero": 23.37
+    },
+    "10761": {
+        "lambda_domain": 66.1,
+        "lambda_zero": 56.19
+    },
+    "10314": {
+        "lambda_domain": 35.85,
+        "lambda_zero": 22.745
+    },
+    "10381": {
+        "lambda_domain": 49.3,
+        "lambda_zero": 32.61
+    },
+    "10155": {
+        "lambda_domain": 28.21,
+        "lambda_zero": 19.39
+    },
+    "10440": {
+        "lambda_domain": 4.215,
+        "lambda_zero": 4.215
+    },
+    "10760": {
+        "lambda_domain": 48.84,
+        "lambda_zero": 48.84
+    },
+    "10806": {
+        "lambda_domain": 34.245,
+        "lambda_zero": 34.245
+    },
+    "10685": {
+        "lambda_domain": 17.07,
+        "lambda_zero": 14.915
+    },
+    "10208": {
+        "lambda_domain": 16.04,
+        "lambda_zero": 15.66
+    },
+    "10152": {
+        "lambda_domain": 28.185,
+        "lambda_zero": 19.03
+    },
+    "10319": {
+        "lambda_domain": 44.64,
+        "lambda_zero": 29.165
+    },
+    "10769": {
+        "lambda_domain": 62.335,
+        "lambda_zero": 47.77
+    },
+    "10429": {
+        "lambda_domain": 35.605,
+        "lambda_zero": 30.1
+    },
+    "10443": {
+        "lambda_domain": 4.855,
+        "lambda_zero": 4.18
+    },
+    "10666": {
+        "lambda_domain": 15.035,
+        "lambda_zero": 15.035
+    },
+    "10260": {
+        "lambda_domain": 32.775,
+        "lambda_zero": 32.775
+    },
+    "10800": {
+        "lambda_domain": 41.845,
+        "lambda_zero": 31.74
+    },
+    "10313": {
+        "lambda_domain": 42.805,
+        "lambda_zero": 26.98
+    },
+    "10768": {
+        "lambda_domain": 64.08,
+        "lambda_zero": 48.745
+    },
+    "10721": {
+        "lambda_domain": 56.15,
+        "lambda_zero": 44.06
+    },
+    "10688": {
+        "lambda_domain": 17.66,
+        "lambda_zero": 17.03
+    },
+    "10427": {
+        "lambda_domain": 31.06,
+        "lambda_zero": 25.89
+    },
+    "10441": {
+        "lambda_domain": 4.595,
+        "lambda_zero": 4.555
+    },
+    "10762": {
+        "lambda_domain": 49.135,
+        "lambda_zero": 49.135
+    },
+    "10315": {
+        "lambda_domain": 32.8,
+        "lambda_zero": 17.54
+    },
+    "10667": {
+        "lambda_domain": 38.37,
+        "lambda_zero": 27.48
+    },
+    "10132": {
+        "lambda_domain": 24.155,
+        "lambda_zero": 18.415
+    },
+    "10802": {
+        "lambda_domain": 52.095,
+        "lambda_zero": 33.67
+    },
+    "10264": {
+        "lambda_domain": 44.655,
+        "lambda_zero": 27.5
+    },
+    "10723": {
+        "lambda_domain": 54.275,
+        "lambda_zero": 44.625
+    },
+    "10765": {
+        "lambda_domain": 64.13,
+        "lambda_zero": 47.935
+    },
+    "10389": {
+        "lambda_domain": 54.665,
+        "lambda_zero": 40.05
+    },
+    "10686": {
+        "lambda_domain": 19.72,
+        "lambda_zero": 15.335
+    },
+    "10318": {
+        "lambda_domain": 42.56,
+        "lambda_zero": 26.09
+    },
+    "10204": {
+        "lambda_domain": 21.015,
+        "lambda_zero": 17.185
+    },
+    "10450": {
+        "lambda_domain": 5.04,
+        "lambda_zero": 4.905
+    },
+    "10764": {
+        "lambda_domain": 65.865,
+        "lambda_zero": 44.17
+    },
+    "10726": {
+        "lambda_domain": 55.27,
+        "lambda_zero": 42.005
+    },
+    "10316": {
+        "lambda_domain": 43.115,
+        "lambda_zero": 30.63
+    },
+    "10669": {
+        "lambda_domain": 37.945,
+        "lambda_zero": 23.955
+    },
+    "10767": {
+        "lambda_domain": 63.635,
+        "lambda_zero": 44.855
+    },
+    "10263": {
+        "lambda_domain": 33.9,
+        "lambda_zero": 33.9
+    },
+    "10423": {
+        "lambda_domain": 35.7,
+        "lambda_zero": 28.06
+    },
+    "10386": {
+        "lambda_domain": 46.81,
+        "lambda_zero": 37.135
+    },
+    "10729": {
+        "lambda_domain": 57.33,
+        "lambda_zero": 48.9
+    },
+    "10682": {
+        "lambda_domain": 19.25,
+        "lambda_zero": 15.685
+    },
+    "10766": {
+        "lambda_domain": 61.33,
+        "lambda_zero": 51.54
+    },
+    "10452": {
+        "lambda_domain": 4.505,
+        "lambda_zero": 4.48
+    },
+    "10664": {
+        "lambda_domain": 2.34,
+        "lambda_zero": 2.34
+    },
+    "10722": {
+        "lambda_domain": 53.66,
+        "lambda_zero": 38.275
+    },
+    "10428": {
+        "lambda_domain": 25.3,
+        "lambda_zero": 25.3
+    },
+    "10133": {
+        "lambda_domain": 27.97,
+        "lambda_zero": 22.275
+    },
+    "10770": {
+        "lambda_domain": 63.46,
+        "lambda_zero": 47.675
+    },
+    "10274": {
+        "lambda_domain": 33.625,
+        "lambda_zero": 28.465
+    },
+    "10683": {
+        "lambda_domain": 18.52,
+        "lambda_zero": 15.4
+    },
+    "10725": {
+        "lambda_domain": 55.385,
+        "lambda_zero": 35.56
+    },
+    "10453": {
+        "lambda_domain": 5.11,
+        "lambda_zero": 4.82
+    },
+    "10205": {
+        "lambda_domain": 20.395,
+        "lambda_zero": 16.015
+    },
+    "10380": {
+        "lambda_domain": 53.89,
+        "lambda_zero": 35.285
+    },
+    "10771": {
+        "lambda_domain": 47.815,
+        "lambda_zero": 47.815
+    },
+    "10421": {
+        "lambda_domain": 34.725,
+        "lambda_zero": 27.775
+    },
+    "10727": {
+        "lambda_domain": 55.735,
+        "lambda_zero": 38.885
+    },
+    "10687": {
+        "lambda_domain": 15.975,
+        "lambda_zero": 15.975
+    },
+    "10776": {
+        "lambda_domain": 66.02,
+        "lambda_zero": 50.675
+    },
+    "10138": {
+        "lambda_domain": 24.18,
+        "lambda_zero": 19.295
+    },
+    "10276": {
+        "lambda_domain": 31.12,
+        "lambda_zero": 28.39
+    },
+    "10728": {
+        "lambda_domain": 56.435,
+        "lambda_zero": 44.045
+    },
+    "10436": {
+        "lambda_domain": 32.145,
+        "lambda_zero": 29.065
+    },
+    "10660": {
+        "lambda_domain": 39.195,
+        "lambda_zero": 26.595
+    },
+    "10777": {
+        "lambda_domain": 64.235,
+        "lambda_zero": 47.55
+    },
+    "10720": {
+        "lambda_domain": 52.605,
+        "lambda_zero": 39.975
+    },
+    "10278": {
+        "lambda_domain": 31.52,
+        "lambda_zero": 31.52
+    },
+    "10385": {
+        "lambda_domain": 49.965,
+        "lambda_zero": 31.905
+    },
+    "10439": {
+        "lambda_domain": 32.145,
+        "lambda_zero": 28.215
+    },
+    "10724": {
+        "lambda_domain": 52.9,
+        "lambda_zero": 43.555
+    },
+    "10775": {
+        "lambda_domain": 64.89,
+        "lambda_zero": 48.73
+    },
+    "10809": {
+        "lambda_domain": 35.81,
+        "lambda_zero": 35.81
+    },
+    "10203": {
+        "lambda_domain": 16.755,
+        "lambda_zero": 15.175
+    },
+    "10456": {
+        "lambda_domain": 3.7,
+        "lambda_zero": 3.7
+    },
+    "10662": {
+        "lambda_domain": 27.725,
+        "lambda_zero": 16.0
+    },
+    "10680": {
+        "lambda_domain": 18.075,
+        "lambda_zero": 16.75
+    },
+    "10600": {
+        "lambda_domain": 13.98,
+        "lambda_zero": 13.98
+    },
+    "10778": {
+        "lambda_domain": 46.96,
+        "lambda_zero": 46.96
+    },
+    "10279": {
+        "lambda_domain": 29.36,
+        "lambda_zero": 29.36
+    },
+    "10731": {
+        "lambda_domain": 55.615,
+        "lambda_zero": 44.69
+    },
+    "10807": {
+        "lambda_domain": 44.73,
+        "lambda_zero": 37.095
+    },
+    "10139": {
+        "lambda_domain": 27.955,
+        "lambda_zero": 21.205
+    },
+    "10774": {
+        "lambda_domain": 65.595,
+        "lambda_zero": 50.54
+    },
+    "10689": {
+        "lambda_domain": 21.7,
+        "lambda_zero": 18.845
+    },
+    "10388": {
+        "lambda_domain": 45.335,
+        "lambda_zero": 34.765
+    },
+    "10665": {
+        "lambda_domain": 31.605,
+        "lambda_zero": 21.42
+    },
+    "10605": {
+        "lambda_domain": 11.66,
+        "lambda_zero": 11.66
+    },
+    "10739": {
+        "lambda_domain": 53.895,
+        "lambda_zero": 38.41
+    },
+    "10272": {
+        "lambda_domain": 31.605,
+        "lambda_zero": 27.59
+    },
+    "10805": {
+        "lambda_domain": 34.155,
+        "lambda_zero": 34.155
+    },
+    "10772": {
+        "lambda_domain": 58.86,
+        "lambda_zero": 43.46
+    },
+    "10454": {
+        "lambda_domain": 5.23,
+        "lambda_zero": 4.95
+    },
+    "10684": {
+        "lambda_domain": 22.03,
+        "lambda_zero": 17.59
+    },
+    "10135": {
+        "lambda_domain": 22.97,
+        "lambda_zero": 18.185
+    },
+    "10433": {
+        "lambda_domain": 26.885,
+        "lambda_zero": 26.885
+    },
+    "10730": {
+        "lambda_domain": 53.12,
+        "lambda_zero": 41.655
+    },
+    "10779": {
+        "lambda_domain": 70.17,
+        "lambda_zero": 52.265
+    },
+    "10215": {
+        "lambda_domain": 18.67,
+        "lambda_zero": 17.68
+    },
+    "10609": {
+        "lambda_domain": 14.855,
+        "lambda_zero": 14.855
+    },
+    "10270": {
+        "lambda_domain": 31.03,
+        "lambda_zero": 31.03
+    },
+    "10382": {
+        "lambda_domain": 49.62,
+        "lambda_zero": 37.685
+    },
+    "10735": {
+        "lambda_domain": 50.48,
+        "lambda_zero": 40.79
+    },
+    "10773": {
+        "lambda_domain": 62.91,
+        "lambda_zero": 43.505
+    },
+    "10430": {
+        "lambda_domain": 35.605,
+        "lambda_zero": 28.165
+    },
+    "10732": {
+        "lambda_domain": 56.935,
+        "lambda_zero": 39.65
+    },
+    "10698": {
+        "lambda_domain": 21.35,
+        "lambda_zero": 16.27
+    },
+    "10273": {
+        "lambda_domain": 39.49,
+        "lambda_zero": 30.25
+    },
+    "10803": {
+        "lambda_domain": 34.055,
+        "lambda_zero": 34.055
+    },
+    "10608": {
+        "lambda_domain": 13.56,
+        "lambda_zero": 13.56
+    },
+    "10734": {
+        "lambda_domain": 52.965,
+        "lambda_zero": 40.855
+    },
+    "10390": {
+        "lambda_domain": 49.1,
+        "lambda_zero": 33.375
+    },
+    "10455": {
+        "lambda_domain": 4.675,
+        "lambda_zero": 4.655
+    },
+    "10692": {
+        "lambda_domain": 19.565,
+        "lambda_zero": 15.38
+    },
+    "10677": {
+        "lambda_domain": 31.77,
+        "lambda_zero": 20.59
+    },
+    "10736": {
+        "lambda_domain": 54.11,
+        "lambda_zero": 41.49
+    },
+    "10438": {
+        "lambda_domain": 31.88,
+        "lambda_zero": 23.19
+    },
+    "10213": {
+        "lambda_domain": 21.48,
+        "lambda_zero": 18.16
+    },
+    "10271": {
+        "lambda_domain": 27.345,
+        "lambda_zero": 27.345
+    },
+    "10131": {
+        "lambda_domain": 25.38,
+        "lambda_zero": 19.235
+    },
+    "10808": {
+        "lambda_domain": 32.515,
+        "lambda_zero": 32.515
+    },
+    "10397": {
+        "lambda_domain": 60.155,
+        "lambda_zero": 40.885
+    },
+    "10458": {
+        "lambda_domain": 5.205,
+        "lambda_zero": 5.2
+    },
+    "10603": {
+        "lambda_domain": 13.61,
+        "lambda_zero": 13.61
+    },
+    "10738": {
+        "lambda_domain": 52.645,
+        "lambda_zero": 41.86
+    },
+    "10672": {
+        "lambda_domain": 28.24,
+        "lambda_zero": 21.595
+    },
+    "10697": {
+        "lambda_domain": 18.595,
+        "lambda_zero": 17.015
+    },
+    "10737": {
+        "lambda_domain": 56.195,
+        "lambda_zero": 42.09
+    },
+    "10431": {
+        "lambda_domain": 31.17,
+        "lambda_zero": 28.34
+    },
+    "10320": {
+        "lambda_domain": 45.215,
+        "lambda_zero": 29.82
+    },
+    "10275": {
+        "lambda_domain": 32.91,
+        "lambda_zero": 32.05
+    },
+    "10733": {
+        "lambda_domain": 54.68,
+        "lambda_zero": 40.33
+    },
+    "10130": {
+        "lambda_domain": 20.8,
+        "lambda_zero": 20.8
+    },
+    "10391": {
+        "lambda_domain": 54.545,
+        "lambda_zero": 37.095
+    },
+    "10696": {
+        "lambda_domain": 19.095,
+        "lambda_zero": 17.51
+    },
+    "10817": {
+        "lambda_domain": 32.365,
+        "lambda_zero": 32.365
+    },
+    "10601": {
+        "lambda_domain": 13.055,
+        "lambda_zero": 13.055
+    },
+    "10277": {
+        "lambda_domain": 28.755,
+        "lambda_zero": 28.755
+    },
+    "10214": {
+        "lambda_domain": 21.845,
+        "lambda_zero": 19.385
+    },
+    "10435": {
+        "lambda_domain": 29.44,
+        "lambda_zero": 26.6
+    },
+    "10329": {
+        "lambda_domain": 38.35,
+        "lambda_zero": 27.295
+    },
+    "10690": {
+        "lambda_domain": 15.545,
+        "lambda_zero": 13.32
+    },
+    "10134": {
+        "lambda_domain": 27.72,
+        "lambda_zero": 21.83
+    },
+    "10457": {
+        "lambda_domain": 5.24,
+        "lambda_zero": 5.115
+    },
+    "10674": {
+        "lambda_domain": 28.67,
+        "lambda_zero": 18.11
+    },
+    "10393": {
+        "lambda_domain": 49.575,
+        "lambda_zero": 36.4
+    },
+    "10437": {
+        "lambda_domain": 31.965,
+        "lambda_zero": 26.12
+    },
+    "10602": {
+        "lambda_domain": 13.74,
+        "lambda_zero": 13.74
+    },
+    "10451": {
+        "lambda_domain": 4.515,
+        "lambda_zero": 4.34
+    },
+    "10694": {
+        "lambda_domain": 17.05,
+        "lambda_zero": 13.635
+    },
+    "10327": {
+        "lambda_domain": 45.4,
+        "lambda_zero": 30.52
+    },
+    "10136": {
+        "lambda_domain": 25.85,
+        "lambda_zero": 20.48
+    },
+    "10432": {
+        "lambda_domain": 30.58,
+        "lambda_zero": 28.15
+    },
+    "10679": {
+        "lambda_domain": 29.245,
+        "lambda_zero": 20.825
+    },
+    "10695": {
+        "lambda_domain": 22.035,
+        "lambda_zero": 16.995
+    },
+    "10606": {
+        "lambda_domain": 14.39,
+        "lambda_zero": 14.39
+    },
+    "10217": {
+        "lambda_domain": 19.575,
+        "lambda_zero": 15.46
+    },
+    "10326": {
+        "lambda_domain": 42.72,
+        "lambda_zero": 30.725
+    },
+    "10398": {
+        "lambda_domain": 51.365,
+        "lambda_zero": 35.64
+    },
+    "10434": {
+        "lambda_domain": 32.885,
+        "lambda_zero": 25.195
+    },
+    "10459": {
+        "lambda_domain": 4.925,
+        "lambda_zero": 4.9
+    },
+    "10137": {
+        "lambda_domain": 26.825,
+        "lambda_zero": 20.425
+    },
+    "10673": {
+        "lambda_domain": 19.58,
+        "lambda_zero": 19.58
+    },
+    "10699": {
+        "lambda_domain": 17.035,
+        "lambda_zero": 16.11
+    },
+    "10607": {
+        "lambda_domain": 12.035,
+        "lambda_zero": 12.035
+    },
+    "10691": {
+        "lambda_domain": 18.78,
+        "lambda_zero": 15.86
+    },
+    "10323": {
+        "lambda_domain": 38.805,
+        "lambda_zero": 33.54
+    },
+    "10219": {
+        "lambda_domain": 25.495,
+        "lambda_zero": 19.035
+    },
+    "10396": {
+        "lambda_domain": 49.47,
+        "lambda_zero": 34.765
+    },
+    "10811": {
+        "lambda_domain": 44.445,
+        "lambda_zero": 32.2
+    },
+    "10670": {
+        "lambda_domain": 13.725,
+        "lambda_zero": 13.725
+    },
+    "10693": {
+        "lambda_domain": 19.795,
+        "lambda_zero": 17.13
+    },
+    "10604": {
+        "lambda_domain": 13.445,
+        "lambda_zero": 13.445
+    },
+    "10324": {
+        "lambda_domain": 42.24,
+        "lambda_zero": 31.95
+    },
+    "10395": {
+        "lambda_domain": 48.845,
+        "lambda_zero": 37.035
+    },
+    "10813": {
+        "lambda_domain": 35.765,
+        "lambda_zero": 35.765
+    },
+    "10322": {
+        "lambda_domain": 41.955,
+        "lambda_zero": 30.92
+    },
+    "10216": {
+        "lambda_domain": 21.96,
+        "lambda_zero": 18.84
+    },
+    "10671": {
+        "lambda_domain": 12.06,
+        "lambda_zero": 12.06
+    },
+    "10818": {
+        "lambda_domain": 35.4,
+        "lambda_zero": 35.4
+    },
+    "10325": {
+        "lambda_domain": 41.275,
+        "lambda_zero": 34.145
+    },
+    "10392": {
+        "lambda_domain": 47.11,
+        "lambda_zero": 37.93
+    },
+    "10815": {
+        "lambda_domain": 35.485,
+        "lambda_zero": 35.485
+    },
+    "10675": {
+        "lambda_domain": 12.515,
+        "lambda_zero": 12.515
+    },
+    "10321": {
+        "lambda_domain": 39.935,
+        "lambda_zero": 32.95
+    },
+    "10678": {
+        "lambda_domain": 33.89,
+        "lambda_zero": 26.45
+    },
+    "10814": {
+        "lambda_domain": 56.345,
+        "lambda_zero": 33.915
+    },
+    "10399": {
+        "lambda_domain": 51.64,
+        "lambda_zero": 37.32
+    },
+    "10334": {
+        "lambda_domain": 41.015,
+        "lambda_zero": 33.67
+    },
+    "10210": {
+        "lambda_domain": 18.685,
+        "lambda_zero": 14.395
+    },
+    "10676": {
+        "lambda_domain": 33.14,
+        "lambda_zero": 23.145
+    },
+    "10338": {
+        "lambda_domain": 43.53,
+        "lambda_zero": 33.9
+    },
+    "10812": {
+        "lambda_domain": 39.86,
+        "lambda_zero": 34.43
+    },
+    "10749": {
+        "lambda_domain": 22.76,
+        "lambda_zero": 19.07
+    },
+    "10335": {
+        "lambda_domain": 45.06,
+        "lambda_zero": 33.2
+    },
+    "10394": {
+        "lambda_domain": 46.135,
+        "lambda_zero": 34.46
+    },
+    "10810": {
+        "lambda_domain": 32.54,
+        "lambda_zero": 32.54
+    },
+    "10337": {
+        "lambda_domain": 52.72,
+        "lambda_zero": 35.36
+    },
+    "10218": {
+        "lambda_domain": 21.945,
+        "lambda_zero": 16.875
+    },
+    "10740": {
+        "lambda_domain": 21.615,
+        "lambda_zero": 18.445
+    },
+    "10336": {
+        "lambda_domain": 46.62,
+        "lambda_zero": 30.215
+    },
+    "10819": {
+        "lambda_domain": 32.835,
+        "lambda_zero": 32.835
+    },
+    "10331": {
+        "lambda_domain": 44.605,
+        "lambda_zero": 33.675
+    },
+    "10742": {
+        "lambda_domain": 23.095,
+        "lambda_zero": 16.465
+    },
+    "10211": {
+        "lambda_domain": 15.78,
+        "lambda_zero": 15.78
+    },
+    "10333": {
+        "lambda_domain": 43.19,
+        "lambda_zero": 33.04
+    },
+    "10212": {
+        "lambda_domain": 19.935,
+        "lambda_zero": 16.745
+    },
+    "10339": {
+        "lambda_domain": 44.32,
+        "lambda_zero": 32.055
+    },
+    "10816": {
+        "lambda_domain": 44.705,
+        "lambda_zero": 36.84
+    },
+    "10330": {
+        "lambda_domain": 42.48,
+        "lambda_zero": 35.31
+    },
+    "10332": {
+        "lambda_domain": 41.6,
+        "lambda_zero": 33.345
+    },
+    "10781": {
+        "lambda_domain": 50.445,
+        "lambda_zero": 40.495
+    },
+    "10782": {
+        "lambda_domain": 42.12,
+        "lambda_zero": 42.12
+    },
+    "10785": {
+        "lambda_domain": 25.1,
+        "lambda_zero": 25.1
+    },
+    "10780": {
+        "lambda_domain": 40.565,
+        "lambda_zero": 40.565
+    },
+    "10783": {
+        "lambda_domain": 40.515,
+        "lambda_zero": 40.515
+    },
+    "10784": {
+        "lambda_domain": 37.685,
+        "lambda_zero": 37.685
+    },
+    "10788": {
+        "lambda_domain": 51.715,
+        "lambda_zero": 38.17
+    },
+    "10789": {
+        "lambda_domain": 33.21,
+        "lambda_zero": 33.21
+    },
+    "10801": {
+        "lambda_domain": 51.11,
+        "lambda_zero": 29.44
+    },
+    "10786": {
+        "lambda_domain": 51.895,
+        "lambda_zero": 41.105
+    },
+    "10787": {
+        "lambda_domain": 44.45,
+        "lambda_zero": 44.45
+    },
+    "10793": {
+        "lambda_domain": 54.39,
+        "lambda_zero": 41.72
+    },
+    "10795": {
+        "lambda_domain": 48.44,
+        "lambda_zero": 37.765
+    },
+    "10798": {
+        "lambda_domain": 46.93,
+        "lambda_zero": 30.56
+    },
+    "10791": {
+        "lambda_domain": 52.175,
+        "lambda_zero": 40.535
+    },
+    "10794": {
+        "lambda_domain": 54.305,
+        "lambda_zero": 38.975
+    },
+    "10790": {
+        "lambda_domain": 28.675,
+        "lambda_zero": 28.675
+    },
+    "10792": {
+        "lambda_domain": 51.385,
+        "lambda_zero": 38.905
+    },
+    "10797": {
+        "lambda_domain": 36.01,
+        "lambda_zero": 36.01
+    },
+    "10799": {
+        "lambda_domain": 50.39,
+        "lambda_zero": 34.045
+    },
+    "10796": {
+        "lambda_domain": 43.225,
+        "lambda_zero": 19.98
+    },
+    "10611": {
+        "lambda_domain": 12.785,
+        "lambda_zero": 12.785
+    },
+    "10612": {
+        "lambda_domain": 12.365,
+        "lambda_zero": 12.365
+    },
+    "10619": {
+        "lambda_domain": 14.975,
+        "lambda_zero": 14.975
+    },
+    "10617": {
+        "lambda_domain": 10.86,
+        "lambda_zero": 10.86
+    },
+    "10618": {
+        "lambda_domain": 12.175,
+        "lambda_zero": 12.175
+    },
+    "10610": {
+        "lambda_domain": 10.09,
+        "lambda_zero": 10.09
+    },
+    "10614": {
+        "lambda_domain": 11.205,
+        "lambda_zero": 11.205
+    },
+    "10615": {
+        "lambda_domain": 15.3,
+        "lambda_zero": 15.3
+    },
+    "10613": {
+        "lambda_domain": 12.98,
+        "lambda_zero": 12.98
+    },
+    "10616": {
+        "lambda_domain": 11.61,
+        "lambda_zero": 11.61
+    },
+    "10747": {
+        "lambda_domain": 19.94,
+        "lambda_zero": 17.67
+    },
+    "10743": {
+        "lambda_domain": 21.655,
+        "lambda_zero": 17.69
+    },
+    "10745": {
+        "lambda_domain": 19.975,
+        "lambda_zero": 17.07
+    },
+    "10744": {
+        "lambda_domain": 19.305,
+        "lambda_zero": 15.81
+    },
+    "10748": {
+        "lambda_domain": 24.135,
+        "lambda_zero": 19.165
+    },
+    "10741": {
+        "lambda_domain": 21.48,
+        "lambda_zero": 19.585
+    },
+    "10746": {
+        "lambda_domain": 24.95,
+        "lambda_zero": 20.77
+    },
+    "10753": {
+        "lambda_domain": 26.54,
+        "lambda_zero": 19.985
+    },
+    "10757": {
+        "lambda_domain": 19.53,
+        "lambda_zero": 16.515
+    },
+    "10750": {
+        "lambda_domain": 25.66,
+        "lambda_zero": 21.925
+    },
+    "10751": {
+        "lambda_domain": 21.86,
+        "lambda_zero": 18.995
+    },
+    "10759": {
+        "lambda_domain": 17.64,
+        "lambda_zero": 15.45
+    },
+    "10754": {
+        "lambda_domain": 23.675,
+        "lambda_zero": 23.72
+    },
+    "10756": {
+        "lambda_domain": 20.745,
+        "lambda_zero": 16.525
+    },
+    "10755": {
+        "lambda_domain": 23.795,
+        "lambda_zero": 19.7
+    },
+    "10758": {
+        "lambda_domain": 19.43,
+        "lambda_zero": 18.005
+    }
+}

@@ -1,0 +1,1001 @@
+"task_id","domain_id","prompt","possible_answers","correct_answer","path_to_media"
+301,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","right","cup_magic/ball_trick_1.mp4"
+302,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","left","cup_magic/ball_trick_2.mp4"
+303,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","left","cup_magic/ball_trick_3.mp4"
+304,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","middle","cup_magic/ball_trick_4.mp4"
+305,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","right","cup_magic/ball_trick_5.mp4"
+306,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","left","cup_magic/ball_trick_6.mp4"
+307,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","middle","cup_magic/ball_trick_7.mp4"
+308,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","left","cup_magic/ball_trick_8.mp4"
+309,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","right","cup_magic/ball_trick_9.mp4"
+310,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","right","cup_magic/ball_trick_10.mp4"
+311,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","middle","cup_magic/ball_trick_11.mp4"
+312,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","right","cup_magic/ball_trick_12.mp4"
+313,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","middle","cup_magic/ball_trick_13.mp4"
+314,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","middle","cup_magic/ball_trick_14.mp4"
+315,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","right","cup_magic/ball_trick_15.mp4"
+316,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","left","cup_magic/ball_trick_16.mp4"
+317,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","right","cup_magic/ball_trick_17.mp4"
+318,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","middle","cup_magic/ball_trick_18.mp4"
+319,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","right","cup_magic/ball_trick_19.mp4"
+320,3,"Under which cup is the ball located at the end of the trick?","left,middle,right","right","cup_magic/ball_trick_20.mp4"
+1201,12,"In which direction will the ball go?","left,right","left","penalty_kick/Pen1.mp4"
+1202,12,"In which direction will the ball go?","left,right","left","penalty_kick/Pen2.mp4"
+1203,12,"In which direction will the ball go?","left,right","right","penalty_kick/Pen3.mp4"
+1204,12,"In which direction will the ball go?","left,right","right","penalty_kick/Pen4.mp4"
+1205,12,"In which direction will the ball go?","left,right","right","penalty_kick/Pen5.mp4"
+1206,12,"In which direction will the ball go?","left,right","right","penalty_kick/Pen6.mp4"
+1207,12,"In which direction will the ball go?","left,right","right","penalty_kick/Pen7.mp4"
+1208,12,"In which direction will the ball go?","left,right","right","penalty_kick/Pen8.mp4"
+1209,12,"In which direction will the ball go?","left,right","right","penalty_kick/Pen9.mp4"
+1210,12,"In which direction will the ball go?","left,right","left","penalty_kick/Pen10.mp4"
+1211,12,"In which direction will the ball go?","left,right","right","penalty_kick/Pen11.mp4"
+1212,12,"In which direction will the ball go?","left,right","left","penalty_kick/Pen12.mp4"
+1213,12,"In which direction will the ball go?","left,right","left","penalty_kick/Pen13.mp4"
+1214,12,"In which direction will the ball go?","left,right","left","penalty_kick/Pen14.mp4"
+1215,12,"In which direction will the ball go?","left,right","left","penalty_kick/Pen15.mp4"
+1216,12,"In which direction will the ball go?","left,right","right","penalty_kick/Pen16.mp4"
+1217,12,"In which direction will the ball go?","left,right","left","penalty_kick/Pen17.mp4"
+1218,12,"In which direction will the ball go?","left,right","left","penalty_kick/Pen18.mp4"
+1219,12,"In which direction will the ball go?","left,right","left","penalty_kick/Pen19.mp4"
+1220,12,"In which direction will the ball go?","left,right","left","penalty_kick/Pen20.mp4"
+1901,19,"How many calories does 1 glass of milk contain?","","105","calories/asset1.png"
+1902,19,"How many calories does 100g (3.5 oz) of whisky contain?","","250","calories/asset2.jpg"
+1903,19,"How many calories does 100g (3.5 oz) of rice contain?","","110","calories/asset3.jpg"
+1904,19,"How many calories does 1 glass of beer contain?","","105","calories/asset4.jpg"
+1905,19,"How many calories does 1 tablespoon of olive contain?","","119","calories/asset5.jpg"
+1906,19,"How many calories does 100g (3.5 oz) of french fries contain?","","300","calories/asset6.png"
+1907,19,"How many calories does 1 apple contain?","","75","calories/asset7.jpg"
+1908,19,"How many calories does 100g (3.5 oz) of chicken breast contain?","","195","calories/asset8.jpg"
+1909,19,"How many calories does 1 glass of cola contain?","","110","calories/asset9.jpg"
+1910,19,"How many calories does 100g (3.5 oz) of spinach contain?","","18","calories/asset10.jpg"
+1911,19,"How many calories does 160g (5.6 oz) of almonds contain?","","900","calories/asset11.jpg"
+1912,19,"How many calories does 120g (4.2 oz) of wine contain?","","165","calories/asset12.jpg"
+1913,19,"How many calories does 1 medium vegetarian pizza contain?","","1360","calories/asset13.jpg"
+1914,19,"How many calories does 100g (3.5 oz) grilled fish contain?","","109","calories/asset14.jpg"
+1915,19,"How many calories does 100g (3.5 oz) of chocolate contain?","","529","calories/asset15.jpg"
+1916,19,"How many calories does 6 slices of wheat bread contain?","","400","calories/asset16.jpg"
+1917,19,"How many calories does 1 banana contain?","","110","calories/asset17.jpg"
+1918,19,"How many calories does 100g (3.5 oz) of honey contain?","","304","calories/asset18.jpg"
+1919,19,"How many calories does an 8 oz cup of coffee contain?","","2","calories/asset19.jpg"
+1920,19,"How many calories does 3 eggs contain?","","353","calories/asset20.jpg"
+2801,28,"In which language is the text is written?","ethiopic,khmer,burmese,hebrew,greek","ethiopic","language_text/ethiopic.png"
+2802,28,"In which language is the text is written?","latin,devnagari,gujarati,cyrillic,bengali","bengali","language_text/bengali.png"
+2803,28,"In which language is the text is written?","thai,sinhala,arabic,kana,chinese","arabic","language_text/arabic.png"
+2804,28,"In which language is the text is written?","chinese,sinhala,ethiopic,hebrew,cyrillic","cyrillic","language_text/cyrillic.png"
+2805,28,"In which language is the text is written?","greek,khmer,burmese,cyrillic,thai","khmer","language_text/khmer.png"
+2806,28,"In which language is the text is written?","gurumukhi,bengali,sinhala,burmese,thai","thai","language_text/thai.png"
+2807,28,"In which language is the text is written?","bengali,hebrew,arabic,maya,gurumukhi","maya","language_text/maya.png"
+2808,28,"In which language is the text is written?","georgian,chinese,sinhala,bengali,tamil","georgian","language_text/georgian.png"
+2809,28,"In which language is the text is written?","kana,khmer,maya,bengali,gurumukhi","gurumukhi","language_text/gurumukhi.png"
+2810,28,"In which language is the text is written?","bengali,georgian,maya,thai,latin","latin","language_text/latin.png"
+2811,28,"In which language is the text is written?","bengali,tamil,greek,hebrew,kana","greek","language_text/greek.png"
+2812,28,"In which language is the text is written?","latin,kana,sinhala,arabic,ethiopic","kana","language_text/kana.png"
+2813,28,"In which language is the text is written?","gurumukhi,burmese,khmer,arabic,chinese","chinese","language_text/chinese.png"
+2814,28,"In which language is the text is written?","greek,bengali,chinese,latin,devnagari","devnagari","language_text/devnagari.png"
+2815,28,"In which language is the text is written?","thai,tamil,gujarati,cyrillic,maya","gujarati","language_text/gujarati.png"
+2816,28,"In which language is the text is written?","egyptian,bengali,greek,gurumukhi,chinese","egyptian","language_text/egyptian.png"
+2817,28,"In which language is the text is written?","ethiopic,gujarati,maya,hebrew,georgian","hebrew","language_text/hebrew.png"
+2818,28,"In which language is the text is written?","maya,sinhala,burmese,hebrew,tamil","burmese","language_text/burmese.png"
+2819,28,"In which language is the text is written?","devnagari,sinhala,gujarati,tamil,bengali","sinhala","language_text/sinhala.png"
+2820,28,"In which language is the text is written?","chinese,kana,tamil,devnagari,latin","tamil","language_text/tamil.png"
+10000,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","49.99","amazon_price/Amazon_echo_dot.jpg"
+10001,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","89.99","amazon_price/kindle_fire.jpg"
+10002,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","10.28","amazon_price/stapler.jpg"
+10003,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","5.99","amazon_price/wood_spoon.jpg"
+10004,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","388.87","amazon_price/ipad.jpg"
+10005,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","119.99","amazon_price/kindle_pw.jpg"
+10006,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","370","amazon_price/iPhone_6.jpg"
+10007,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","549","amazon_price/camera.jpg"
+10008,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","179","amazon_price/echo.jpg"
+10009,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","2249","amazon_price/mbp.jpg"
+10010,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","20","amazon_price/mouse.jpg"
+10011,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","5.49","amazon_price/usb.jpg"
+10012,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","300","amazon_price/bose.jpg"
+10013,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","900","amazon_price/washing.jpg"
+10014,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","100","amazon_price/monitor.jpg"
+10015,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","30","amazon_price/kb.jpg"
+10016,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","8","amazon_price/pendrive.jpg"
+10017,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","53","amazon_price/hdd.jpg"
+10018,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","15","amazon_price/coffee.jpg"
+10019,39,"Estimate the price in USD as listed on Amazon for the following product","no answers","16","amazon_price/umb.jpg"
+10020,99,"Which pair of words has the same relationship as 'Glove : Hand'?","Neck : Collar, Tie : Shirt, Socks : Feet, Coat : Pocket","Socks : Feet",NA
+10021,99,"Which pair of words has the same relationship as 'Lawyer : Court'?","Chemist : Laboratory, Businessman : Office, Labor : Factory, Athlete : Olympics","Chemist : Laboratory",NA
+10022,99,"Which pair of words has the same relationship as 'Letter : Word'?","Page : Book, Product : Factory, Club : People, Home work : School","Page : Book",NA
+10023,99,"Which pair of words has the same relationship as 'Lively : Dull'?","Employed : Jobless, Flower : Bud, Factory : Labor, Happy : Gay","Employed : Jobless",NA
+10024,99,"Which pair of words has the same relationship as 'Silence : Noise'?","Quiet : Peace, Baldness : Hair, Talk : Whisper, Sing : Dance","Baldness : Hair",NA
+10025,99,"Which pair of words has the same relationship as 'Kick : Football'?","Wash : Dishes, Dust : Rage, Mop : Sweep, Throw : Ring","Throw : Ring",NA
+10026,99,"Which pair of words has the same relationship as 'Scales : Fish'?","Bear : Fur, Woman : Dress, Skin : Man, Tree : Leaves","Skin : Man",NA
+10027,99,"Which pair of words has the same relationship as 'Numismatist : Coins'?","Jeweler : Jewels, Cartographer : Maps, Philatelist : Stamps, Geneticist : Chromosomes","Philatelist : Stamps",NA
+10028,99,"Which pair of words has the same relationship as 'Sunrise : Sunset'?","Dawn : Twilight, Noon : Midnight, Morning : Night, Energetic : Lazy","Morning : Night",NA
+10029,99,"Which pair of words has the same relationship as 'Candle : Wick'?","Hammer : Nail, Light : Bulb, Oven : Fire, Bicycle : Wheel","Bicycle : Wheel",NA
+10030,99,"Which pair of words has the same relationship as 'Sound : Muffled'?","Moisture : Humid, Color : Faded, Despair : Anger, Odor : Pungent","Color : Faded",NA
+10031,99,"Which pair of words has the same relationship as 'Platform : Train'?","Airplane : Aerodrome, Hotel : Tourist, Quay : Ship, Footpath : Traveler","Quay : Ship",NA
+10032,99,"Which pair of words has the same relationship as 'Train : Track'?","Water: Boat, Bullet : Barrel, Idea : Brain, Fame : Television","Bullet : Barrel",NA
+10033,99,"Which pair of words has the same relationship as 'Chalk : Blackboard'?","Type : Point, Table : Chair, Door : Handle, Ink : Paper","Ink : Paper",NA
+10034,99,"Which pair of words has the same relationship as 'Rectangle : Pentagon'?","Side : Angle, Diagonal : Perimeter, Triangle : Rectangle, Circle : Square","Triangle : Rectangle",NA
+10035,99,"Which pair of words has the same relationship as 'Thermometer : Temperature'?","Millimeter : Scale, Length : Breadth, Solar Energy : Sun, Cardiograph : Heart rate","Cardiograph : Heart rate",NA
+10036,99,"Which pair of words has the same relationship as 'Border : Country'?","Pen : Cap, Book : Cover, Handle : Shade, Frame : Picture","Frame : Picture",NA
+10037,99,"Which pair of words has the same relationship as 'River : Ocean'?","Child : School, Book : Library, Lane : Road, Cloth : Body","Lane : Road",NA
+10038,99,"Which pair of words has the same relationship as 'Arc : Circle'?","Number : Count, Fraction : Percentage, Pie : Slice, Segment : Line","Segment : Line",NA
+10039,99,"Which pair of words has the same relationship as 'Passengers : Airplane'?","Audience : Theater, Birds : Nest, Sailors : Submarine, Freight : Warehouse, Students : Classroom","Sailors : Submarine",NA
+10040,30,"Which artist/band interpreted this song?","Avicii, Jason Derulo, Charli XCX, Tove Lo, Calvin Harris","Avicii","artists_nameSong01.mp3"
+10041,30,"Which artist/band interpreted this song?","Lady Antebellum, Charli XCX, Imagine Dragons, Drake, Sam Smith, Beyonce","Lady Antebellum","artists_nameSong02.mp3"
+10042,30,"Which artist/band interpreted this song?","American Authors, Lee Brice, Miley Cyrus, Wiz Khalifa, Juicy J","American Authors","artists_nameSong03.mp3"
+10043,30,"Which artist/band interpreted this song?","Beyonce, Jessie J, Ariana Grande, Nicki Minaj, Bobby Shmurda","Beyonce","artists_nameSong04.mp3"
+10044,30,"Which artist/band interpreted this song?","Imagine Dragons, Zedd featuring Hayley Williams, Sam Smith, Avicii, Lorde","Imagine Dragons","artists_nameSong05.mp3"
+10045,30,"Which artist/band interpreted this song?","Florida, Miley Cyrus, Jason Derulo, Michael Jackson, Justin Timberlake","Florida","artists_nameSong06.mp3"
+10046,30,"Which artist/band interpreted this song?","Dierks Bentley, DJ Snake and Lil Jon, Lorde, Jake Owen, Imagine Dragons","Dierks Bentley","artists_nameSong07.mp3"
+10047,30,"Which artist/band interpreted this song?","Lee Brice, One Direction, KONGOS, One Republic, Drake featuring Majid Jordan","Lee Brice","artists_nameSong08.mp3"
+10048,30,"Which artist/band interpreted this song?","Jason Derulo, Imagine Dragons, Nico +ACY- Vinz, Eminem featuring Rihanna, One Republic","Jason Derulo","artists_nameSong09.mp3"
+10049,30,"Which artist/band interpreted this song?","Katy Perry, Sam Smith, Nico +ACY- Vinz, Iggy Azalea featuring Charli XCX, Sia","Katy Perry","artists_nameSong10.mp3"
+10050,30,"Which artist/band interpreted this song?","Kid Ink, Passenger, Brantley Gilbert, Robin Thicke, John Legend","Kid Ink","artists_nameSong11.mp3"
+10051,30,"Which artist/band interpreted this song?","Lil Wayne, Bastille, Taylor Swift, Coldplay, Idina Menzel","Lil Wayne","artists_nameSong12.mp3"
+10052,30,"Which artist/band interpreted this song?","Aloe Blacc, Sia, Rixton, 5 Seconds of Summer, Lorde","Aloe Blacc","artists_nameSong13.mp3"
+10053,30,"Which artist/band interpreted this song?","Naughty Boy, Kid Ink featuring Chris Brown, Taylor Swift, 5 Seconds of Summer, John Legend","Naughty Boy","artists_nameSong14.mp3"
+10054,30,"Which artist/band interpreted this song?","One Direction, Maroon 5, Trey Songz, Aloe Blacc, Brantley Gilbert","One Direction","artists_nameSong15.mp3"
+10055,30,"Which artist/band interpreted this song?","One Republic, Lorde, MAGIC+ACE-, Jason Aldean, T.I. featuring Iggy Azalea","One Republic","artists_nameSong16.mp3"
+10056,30,"Which artist/band interpreted this song?","Pharell Williams, Drake, Imagine Dragons, Naughty Boy featuring Sam Smith, Paramore","Pharell Williams","artists_nameSong17.mp3"
+10057,30,"Which artist/band interpreted this song?","Bastille, Jake Owen, Avicii, Lil Wayne featuring Drake, One Direction","Bastille","artists_nameSong18.mp3"
+10058,30,"Which artist/band interpreted this song?","Trey Songz, Nico +ACY- Vinz, Sara Bareilles, Avicii, Pitbull","Trey Songz","artists_nameSong19.mp3"
+10059,30,"Which artist/band interpreted this song?","Calvin Harris, Kenny Chesney, KONGOS, MAGIC+ACE-, Becky G","Calvin Harris","artists_nameSong20.mp3"
+10060,16,"In which year was this book published?","no answers","1605","book_release_year/question1.png"
+10061,16,"In which year was this book published?","no answers","1759","book_release_year/question2.png"
+10062,16,"In which year was this book published?","no answers","1666","book_release_year/question3.png"
+10063,16,"In which year was this book published?","no answers","1667","book_release_year/question4.png"
+10064,16,"In which year was this book published?","no answers","2007","book_release_year/question5.png"
+10065,16,"In which year was this book published?","no answers","1719","book_release_year/question6.png"
+10066,16,"In which year was this book published?","no answers","1726","book_release_year/question7.png"
+10067,16,"In which year was this book published?","no answers","2001","book_release_year/question8.png"
+10068,16,"In which year was this book published?","no answers","1951","book_release_year/question9.png"
+10069,16,"In which year was this book published?","no answers","2009","book_release_year/question10.png"
+10070,16,"In which year was this book published?","no answers","1813","book_release_year/question11.png"
+10071,16,"In which year was this book published?","no answers","1967","book_release_year/question12.png"
+10072,16,"In which year was this book published?","no answers","1847","book_release_year/question13.png"
+10073,16,"In which year was this book published?","no answers","1865","book_release_year/question14.png"
+10074,16,"In which year was this book published?","no answers","1890","book_release_year/question15.png"
+10075,16,"In which year was this book published?","no answers","1957","book_release_year/question16.png"
+10076,16,"In which year was this book published?","no answers","1915","book_release_year/question17.png"
+10077,16,"In which year was this book published?","no answers","1954","book_release_year/question18.png"
+10078,16,"In which year was this book published?","no answers","2004","book_release_year/question19.png"
+10079,16,"In which year was this book published?","no answers","1949","book_release_year/question20.png"
+10080,98,"Which of these chocolates had the highest sales revenue in the U.S. in 2016?","Reese's, Snickers, Kit Kat, Twix","Reese's",NA
+10081,98,"Which of these domestic beers had the highest sales revenue in the U.S. in 2016?","Bud Light, Budweiser, Blue Moon Belgian White Ale, Pabst Blue Ribbon","Bud Light",NA
+10082,98,"Which of these coffees had the highest sales revenue in the U.S. in 2016?","Starbucks, Folgers, Keurig, Maxwell House","Keurig",NA
+10083,98,"Which of these luxury cars had the highest sales revenue in the U.S. in 2016?","Lexus RX, Cadillac SRX, BMW 3+AC0-Series, Mercedes+AC0-Benz C+AC0-Class","Lexus RX",NA
+10084,98,"Which of these toothpastes had the highest sales revenue in the U.S. in 2016?","Weleda, Colgate, Crest, Sensodyne","Crest",NA
+10085,98,"Which of these soft drinks had the highest sales revenue in the U.S. in 2016?","Diet Coke, Pepsi, Mountain Dew, Coca Cola","Coca Cola",NA
+10086,98,"Which of these pizzas had the highest sales revenue in the U.S. in 2016?","Domino's Pizza, Pizza Hut, Papa John's Pizza, Sbarro","Pizza Hut",NA
+10087,98,"Which of these ice creams had the highest sales revenue in the U.S. in 2016?","Breyers, Ben +ACY- Jerry's, Private Label, Haagen Dazs","Private Label",NA
+10088,98,"Which of these sneakers had the highest sales revenue in the U.S. in 2016?","Addidas, Nike, Puma, Under Armour","Nike",NA
+10089,98,"Which of these shampoos had the highest sales revenue in the U.S. in 2016?","Sunsilk, Head +ACY- Shoulders, Pantene, Garnier","Head +ACY- Shoulders",NA
+10090,98,"Which of these retail brands had the highest sales revenue in the U.S. in 2016?","Old Navy, Gap, Nike, Ralph Lauren","Nike",NA
+10091,98,"Which of these luxury retail brands had the highest sales revenue in the U.S. in 2016?","Tommy Hilfiger, Coach, Ralph Lauren, Under Armour","Ralph Lauren",NA
+10092,98,"Which of these laundry detergents had the highest sales revenue in the U.S. in 2016?","Gain, Tie, Purex, Arm +ACY- Hammer","Tide",NA
+10093,98,"Which of these car brands had the highest sales revenue in the U.S. in 2016?","Ford Focus, Honda Civic, Toyota Corolla, Toyota Camry","Toyota Camry",NA
+10094,98,"Which of these fast food chains had the highest sales revenue in the U.S. in 2016?","McDonald's, Subway, Wendy's, Burger King","McDonald's",NA
+10095,98,"Which of these laptops had the highest sales revenue in the U.S. in 2016?","Asus, Dell, Apple, Hewlett+AC0-Packard","Dell",NA
+10096,98,"Which of these fast food chains had the highest sales revenue in the U.S. in 2016?","KFC, Popeyes, Pizza Hut, Burger King","Burger King",NA
+10097,98,"Which of these furniture stores had the highest sales revenue in the U.S. in 2016?","Pier 1 Imports, IKEA, Ashley Furniture Home Stores, Williams+AC0-Sonoma","Ashley Furniture Home Stores",NA
+10098,98,"Which of these cereals had the highest sales revenue in the U.S. in 2016?","Froot Loops, Honey Nut Cheerios, Frosted Flakes, Cinnamon Toast Crunch","Honey Nut Cheerios",NA
+10099,98,"Which of these mobile carriers had the highest sales revenue in the U.S. in 2016?","T+AC0-mobile, Verizon, Sprint, AT+ACY-T","Verizon",NA
+10100,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Unsuccessful","business_idea/asset1.png"
+10101,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Unsuccessful","business_idea/asset2.png"
+10102,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Successful","business_idea/asset3.png"
+10103,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Successful","business_idea/asset4.jpg"
+10104,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Unsuccessful","business_idea/asset5.png"
+10105,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Successful","business_idea/asset6.png"
+10106,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Successful","business_idea/asset7.png"
+10107,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Unsuccessful","business_idea/asset8.png"
+10108,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Unsuccessful","business_idea/asset9.png"
+10109,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Successful","business_idea/asset10.png"
+10110,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Successful","business_idea/asset11.png"
+10111,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Unsuccessful","business_idea/asset12.png"
+10112,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Unsuccessful","business_idea/asset13.png"
+10113,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Successful","business_idea/asset14.png"
+10114,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Unsuccessful","business_idea/asset15.png"
+10115,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Successful","business_idea/asset16.png"
+10116,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Unsuccessful","business_idea/asset17.png"
+10117,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Successful","business_idea/asset18.png"
+10118,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Successful","business_idea/asset19.png"
+10119,40,"Will the following product be funded by Kickstarter?","Unsuccessful, Succesful","Unsuccessful","business_idea/asset20.png"
+10120,11,"In what year was the car manufactured ?","no answers","1955","car_manufacture_year/Ford_img1.png"
+10121,11,"In what year was the car manufactured ?","no answers","1993","car_manufacture_year/Ford_img2.png"
+10122,11,"In what year was the car manufactured ?","no answers","1994","car_manufacture_year/Ford_img3.png"
+10123,11,"In what year was the car manufactured ?","no answers","1996","car_manufacture_year/Ford_img4.png"
+10124,11,"In what year was the car manufactured ?","no answers","1997","car_manufacture_year/Ford_img5.png"
+10125,11,"In what year was the car manufactured ?","no answers","1998","car_manufacture_year/Ford_img6.png"
+10126,11,"In what year was the car manufactured ?","no answers","2003","car_manufacture_year/Ford_img7.png"
+10127,11,"In what year was the car manufactured ?","no answers","2005","car_manufacture_year/Ford_img8.png"
+10128,11,"In what year was the car manufactured ?","no answers","2006","car_manufacture_year/Ford_img9.png"
+10129,11,"In what year was the car manufactured ?","no answers","2011","car_manufacture_year/Ford_img10.png"
+10130,11,"In what year was the car manufactured ?","no answers","2014","car_manufacture_year/Ford_img11.png"
+10131,11,"In what year was the car manufactured ?","no answers","2015","car_manufacture_year/Ford_img12.png"
+10132,11,"In what year was the car manufactured ?","no answers","1950","car_manufacture_year/Ford_img13.png"
+10133,11,"In what year was the car manufactured ?","no answers","1975","car_manufacture_year/Ford_img14.png"
+10134,11,"In what year was the car manufactured ?","no answers","1975","car_manufacture_year/Ford_img15.png"
+10135,11,"In what year was the car manufactured ?","no answers","2015","car_manufacture_year/Ford_img16.png"
+10136,11,"In what year was the car manufactured ?","no answers","1980","car_manufacture_year/Ford_img17.png"
+10137,11,"In what year was the car manufactured ?","no answers","1990","car_manufacture_year/Ford_img18.png"
+10138,11,"In what year was the car manufactured ?","no answers","2016","car_manufacture_year/Ford_img19.png"
+10139,11,"In what year was the car manufactured ?","no answers","1930","car_manufacture_year/Ford_img20.png"
+10140,5,"How old is Beyonce Knowles?","no answers","35",NA
+10141,5,"How old is Bruno Mars?","no answers","31",NA
+10142,5,"How old is Calvin Harris?","no answers","33",NA
+10143,5,"How old is Dr. Dre?","no answers","52",NA
+10144,5,"How old is Ellen Degeneres?","no answers","59",NA
+10145,5,"How old is Brad Pitt?","no answers","52",NA
+10146,5,"How old is Jay Z?","no answers","47",NA
+10147,5,"How old is Jennifer Lawrence?","no answers","26",NA
+10148,5,"How old is Kanye West?","no answers","39",NA
+10149,5,"How old is Katie Perry?","no answers","32",NA
+10150,5,"How old is Kobe Bryant?","no answers","40",NA
+10151,5,"How old is Lady Gaga?","no answers","32",NA
+10152,5,"How old is Madonna?","no answers","58",NA
+10153,5,"How old is Miley Cyrus?","no answers","25",NA
+10154,5,"How old is Oprah Winfrey?","no answers","65",NA
+10155,5,"How old is Rihanna?","no answers","31",NA
+10156,5,"How old is Robert Downey Jr.?","no answers","53",NA
+10157,5,"How old is Roger Federer?","no answers","37",NA
+10158,5,"How old is Stephen Spielberg?","no answers","72",NA
+10159,5,"How old is Taylor Swift?","no answers","29",NA
+10160,52,"Who composed this piece ?","Johannes Brahms, Frederic Chopin, Jules Massenet, Johann Sebastian Bach, Carl Orff","Johann Sebastian Bach","classical_composition/bach_allegro.mp3"
+10161,52,"Who composed this piece ?","Piotr Ilyich Tchaikovsky, Johann Sebastian Bach, Johann Strauss II, Edvard Grieg, Wolfgang Amadeus Mozart","Edvard Grieg","classical_composition/grieg_morning_mood.mp3"
+10162,52,"Who composed this piece ?","Johann Sebastian Bach, Richard Wagner, Carl Orff, Wolfgang Amadeus Mozart, Frederic Chopin","Richard Wagner","classical_composition/wagner_valkyries.mp3"
+10163,52,"Who composed this piece ?","Ludwig van Beethoven, Frederic Chopin, Wolfgang Amadeus Mozart, Johann Strauss II, Claude Debussy","Ludwig van Beethoven","classical_composition/beethoven_fur_elise.mp3"
+10164,52,"Who composed this piece ?","Johann Sebastian Bach, Claude Debussy, Frederic Chopin, Antonio Vivaldi, Ludwig van Beethoven","Ludwig van Beethoven","classical_composition/beethoven_moonlight_sonata.mp3"
+10165,52,"Who composed this piece ?","Richard Wagner, Edvard Grieg, Antonio Vivaldi, Wolfgang Amadeus Mozart, Johann Sebastian Bach","Antonio Vivaldi","classical_composition/vivaldi_four_seasons.mp3"
+10166,52,"Who composed this piece ?","Edvard Grieg, Wolfgang Amadeus Mozart, Richard Wagner, Jules Massenet, Claude Debussy","Claude Debussy","classical_composition/debussy_claire_de_lune.mp3"
+10167,52,"Who composed this piece ?","Antonio Vivaldi, Piotr Ilyich Tchaikovsky, Ludwig van Beethoven, Jules Massenet, George Frideric Handel","Piotr Ilyich Tchaikovsky","classical_composition/tchaikovsky_swan_lake.mp3"
+10168,52,"Who composed this piece ?","Claude Debussy, Frederic Chopin, Ludwig van Beethoven, Edvard Grieg, Piotr Ilyich Tchaikovsky","Frederic Chopin","classical_composition/chopin_nocturnes.mp3"
+10169,52,"Who composed this piece ?","Edvard Grieg, Johann Sebastian Bach, Ludwig van Beethoven, George Frideric Handel, Piotr Ilyich Tchaikovsky","Johann Sebastian Bach","classical_composition/bach_air.mp3"
+10170,52,"Who composed this piece ?","George Frideric Handel, Johannes Brahms, Wolfgang Amadeus Mozart, Piotr Ilyich Tchaikovsky, Johann Sebastian Bach","Johannes Brahms","classical_composition/brahms_hungarian_dance.mp3"
+10171,52,"Who composed this piece ?","Ludwig van Beethoven, Piotr Ilyich Tchaikovsky, Wolfgang Amadeus Mozart, Edvard Grieg, Carl Orff","Wolfgang Amadeus Mozart","classical_composition/mozart_symphony_40_I.mp3"
+10172,52,"Who composed this piece ?","Frederic Chopin, Wolfgang Amadeus Mozart, Jules Massenet, Johannes Brahms, Johann Strauss II","Jules Massenet","classical_composition/massenet_meditation.mp3"
+10173,52,"Who composed this piece ?","Carl Orff, Claude Debussy, Piotr Ilyich Tchaikovsky, Antonio Vivaldi, Ludwig van Beethoven","Carl Orff","classical_composition/orff_fortuna.mp3"
+10174,52,"Who composed this piece ?","Wolfgang Amadeus Mozart, Carl Orff, Ludwig van Beethoven, Johann Sebastian Bach, Frederic Chopin","Wolfgang Amadeus Mozart","classical_composition/mozart_alla_turca.mp3"
+10175,52,"Who composed this piece ?","George Frideric Handel, Johannes Brahms, Carl Orff, Piotr Ilyich Tchaikovsky, Frederic Chopin","George Frideric Handel","classical_composition/handel_messiah.mp3"
+10176,52,"Who composed this piece ?","Wolfgang Amadeus Mozart, Edvard Grieg, Carl Orff, Jules Massenet, Ludwig van Beethoven","Ludwig van Beethoven","classical_composition/beethoven_symphony_5.mp3"
+10177,52,"Who composed this piece ?","Edvard Grieg, Antonio Vivaldi, Frederic Chopin, Jules Massenet, Wolfgang Amadeus Mozart","Wolfgang Amadeus Mozart","classical_composition/mozart_piano_concerto_21.mp3"
+10178,52,"Who composed this piece ?","Claude Debussy, Edvard Grieg, Wolfgang Amadeus Mozart, Antonio Vivaldi, Richard Wagner","Wolfgang Amadeus Mozart","classical_composition/mozart_overture.mp3"
+10179,52,"Who composed this piece ?","Johannes Brahms, Frederic Chopin, Wolfgang Amadeus Mozart, Antonio Vivaldi, Johann Strauss II","Johann Strauss II","classical_composition/strauss_danube.mp3"
+10180,34,"What is the name of this constellation?","Orion, Horologium, Aquarius, Virgo, Apus","Orion","constellation_name/constellation_Orion.jpg"
+10181,34,"What is the name of this constellation?","Cygnus,Taurus,Sextans, Aries, Aquila","Cygnus","constellation_name/constellation_Cygnus.jpg"
+10182,34,"What is the name of this constellation?","Saggitarius, Octans, Mensa, Aquila,Scorpius","Sagittarius","constellation_name/constellation_Sagittarius.jpg"
+10183,34,"What is the name of this constellation?","Leo, Lupus, Apus, Columba, Gemini","Leo","constellation_name/constellation_Leo.jpg"
+10184,34,"What is the name of this constellation?","Aries, Norma, Scorpius, Pictor, Aquarius","Aries","constellation_name/constellation_Aries.jpg"
+10185,34,"What is the name of this constellation?","Scorpius, Scutum, Vulpecula, Virgo, Apus","Scorpius","constellation_name/constellation_Scorpius.jpg"
+10186,34,"What is the name of this constellation?","Lyra, Triangulum, Scorpius, Octans, Scutum","Lyra","constellation_name/constellation_Lyra.jpg"
+10187,34,"What is the name of this constellation?","Hercules, Grus, Ursa Minor, Aquila, Volans","Hercules","constellation_name/constellation_Hercules.jpg"
+10188,34,"What is the name of this constellation?","Taurus, Norma, Pavo, Chamaeleon, Cepheus","Taurus","constellation_name/constellation_Taurus.jpg"
+10189,34,"What is the name of this constellation?","Cassiopeia, Lupus, Indus, Crater, Lacerta","Cassiopeia","constellation_name/constellation_Cassiopeia.jpg"
+10190,34,"What is the name of this constellation?","Pegasus, Sagittarius, Serpens, Ara, Aries","Pegasus","constellation_name/constellation_Pegasus.jpg"
+10191,34,"What is the name of this constellation?","Draco, Crux, Phoenix, Piscis Austrinus, Cepheus","Draco","constellation_name/constellation_Draco.jpg"
+10192,34,"What is the name of this constellation?","Libra, Tucana, Gemini, Reticulum, Norma","Libra","constellation_name/constellation_Libra.jpg"
+10193,34,"What is the name of this constellation?","Capricornus, Carina, Andromeda, Monoceros, Equuleus","Capricornus","constellation_name/constellation_Capricornus.jpg"
+10194,34,"What is the name of this constellation?","Virgo, Hercules, Crater, Vela, Canes Venatici","Virgo","constellation_name/constellation_Virgo.jpg"
+10195,34,"What is the name of this constellation?","Ursa Major, Antlia, Andromeda, Camelopardalis, Indus","Ursa Major","constellation_name/constellation_Ursa_Major.jpg"
+10196,34,"What is the name of this constellation?","Gemini, Triangulum, Coma Berenices, Draco, Grus","Gemini","constellation_name/constellation_Gemini.jpg"
+10197,34,"What is the name of this constellation?","Aquarius, Puppis, Telescopium, Crater, Lepus","Aquarius","constellation_name/constellation_Aquarius.jpg"
+10198,34,"What is the name of this constellation?","Aquila, Eridanus, Vulpecula, Serpens, Aquarius","Aquila","constellation_name/constellation_Aquila.jpg"
+10199,34,"What is the name of this constellation?","Canis Major, Scorpius, Crater, Columba, Gemini","Canis Major","constellation_name/constellation_CanisMajor.jpg"
+10200,45,"What year was this building built in?","no answers","1648","construction_years/Taj_Mahal.png"
+10201,45,"What year was this building built in?","no answers","1931","construction_years/Empire_State_Building.png"
+10202,45,"What year was this building built in?","no answers","1648","construction_years/Red_Fort.png"
+10203,45,"What year was this building built in?","no answers","2010","construction_years/Burj_Khalifa.png"
+10204,45,"What year was this building built in?","no answers","1517","construction_years/Leaning_Tower_of_Pisa.png"
+10205,45,"What year was this building built in?","no answers","1889","construction_years/Effiel_Tower.png"
+10206,45,"What year was this building built in?","no answers","1924","construction_years/Gateway_of_India.png"
+10207,45,"What year was this building built in?","no answers","1930","construction_years/Chrysler_Building.png"
+10208,45,"What year was this building built in?","no answers","1973","construction_years/Willis_Tower.png"
+10209,45,"What year was this building built in?","no answers","1420","construction_years/Forbidden_City.png"
+10210,45,"What year was this building built in?","no answers","2004","construction_years/30_St_Mary_Axe.png"
+10211,45,"What year was this building built in?","no answers","1800","construction_years/White_House.png"
+10212,45,"What year was this building built in?","no answers","1902","construction_years/Flatiron.png"
+10213,45,"What year was this building built in?","no answers","2004","construction_years/Taipei101.png"
+10214,45,"What year was this building built in?","no answers","2010","construction_years/International_Commerce_Centre.png"
+10215,45,"What year was this building built in?","no answers","1888","construction_years/Basilica_of_Sacred_Heart.png"
+10216,45,"What year was this building built in?","no answers","1913","construction_years/Union.png"
+10217,45,"What year was this building built in?","no answers","1996","construction_years/Petronas_Towers.png"
+10218,45,"What year was this building built in?","no answers","1976","construction_years/John_Hancock.png"
+10219,45,"What year was this building built in?","no answers","1973","construction_years/Sydney_Opera_House.png"
+10220,33,"Which country is the bill from?","Burma,China,Laos,Mongolia,Taiwan","China","country_currency/currency1.jpg"
+10221,33,"Which country is the bill from?","Argentina,India,Maldives,South Africa,Sri Lanka","India","country_currency/currency2.jpg"
+10222,33,"Which country is the bill from?","Cameroon,Chile,Ecuador,Macau,United States of America","United States of America","country_currency/currency3.jpg"
+10223,33,"Which country is the bill from?","Indonesia,Malaysia,Nepal,Romania,Yemen","Indonesia","country_currency/currency4.jpg"
+10224,33,"Which country is the bill from?","Argentina,Bolivia,Brazil,Chile,Guyana","Brazil","country_currency/currency5.jpg"
+10225,33,"Which country is the bill from?","Afghanistan,Burkina Faso,Kazakhstan,Pakistan,Qatar","Pakistan","country_currency/currency6.jpg"
+10226,33,"Which country is the bill from?","Egypt,Nigeria,Suriname,Uruguay,Zimbabwe","Nigeria","country_currency/currency7.jpg"
+10227,33,"Which country is the bill from?","Bangladesh,Burma,Iran,Kuwait,Tajikistan","Bangladesh","country_currency/currency8.jpg"
+10228,33,"Which country is the bill from?","Belarus,Romania,Russia,Switzerland,Ukraine","Russia","country_currency/currency9.jpg"
+10229,33,"Which country is the bill from?","Benin,China,Haiti,Japan,Malawi","Japan","country_currency/currency10.jpg"
+10230,33,"Which country is the bill from?","Columbia,Cuba,Guyana,Honduras,Mexico","Mexico","country_currency/currency11.jpg"
+10231,33,"Which country is the bill from?","Albania,Coasta Rica,Indonesia,Peru,Philippines","Philippines","country_currency/currency12.jpg"
+10232,33,"Which country is the bill from?","Ethiopia,Kenya,Somalia,Sudan,Zimbabwe","Ethiopia","country_currency/currency13.jpg"
+10233,33,"Which country is the bill from?","Combodia,El Salvador,Panama,Venezuela,Vietnam","Vietnam","country_currency/currency14.jpg"
+10234,33,"Which country is the bill from?","Canada,Egypt,Israel,Paraguay,Russia","Egypt","country_currency/currency15.jpg"
+10235,33,"Which country is the bill from?","Haiti,Hong Kong,Iran,Iraq,Malaysia","Iran","country_currency/currency16.jpg"
+10236,33,"Which country is the bill from?","Mexico,Peru,Russia,Singapore,Turkey","Turkey","country_currency/currency17.jpg"
+10237,33,"Which country is the bill from?","Bahamas,Barbados,Democratic Republic of Congo,Jamaica,Oman","Democratic Republic of Congo","country_currency/currency18.jpg"
+10238,33,"Which country is the bill from?","Chile,Combodia,El Salvador,Laos,Thailand","Thailand","country_currency/currency19.jpg"
+10239,33,"Which country is the bill from?","Canada,French Guiana,Panama,Saint Lucia,United Kingdom","United Kingdom","country_currency/currency20.jpg"
+10240,41,"Which country does this flag belong to?","Burma,Democratic Republic Of Congo,Mexico,Russia,Ukraine","Democratic Republic Of Congo","country_flag/1.png"
+10241,41,"Which country does this flag belong to?","Angola,Democratic Republic of Congo,Indonesia,Mexico,Thailand","Indonesia","country_flag/2.png"
+10242,41,"Which country does this flag belong to?","Algeria,Australia,Ethiopia,Spain,Turkey","Algeria","country_flag/3.png"
+10243,41,"Which country does this flag belong to?","Algeria,Chad,Columbia,Iran,Turkmenistan","Iran","country_flag/4.png"
+10244,41,"Which country does this flag belong to?","Libya,Mongolia,Nigeria,Poland,Spain","Mongolia","country_flag/5.png"
+10245,41,"Which country does this flag belong to?","Afghanistan,Columbia,Indonesia,Libya,Venezuela","Libya","country_flag/6.png"
+10246,41,"Which country does this flag belong to?","Australia,France,Ukraine,United States Of America,Yemen","United States Of America","country_flag/7.png"
+10247,41,"Which country does this flag belong to?","Egypt,Iraq,Russia,Spain,Sudan","Russia","country_flag/8.png"
+10248,41,"Which country does this flag belong to?","Botswana,Democratic Republic of Congo,India,Mozambique,Vietnam","India","country_flag/9.png"
+10249,41,"Which country does this flag belong to?","Afghanistan,Burkina Faso,Italy,Pakistan,Saudi Arabia","Saudi Arabia","country_flag/10.png"
+10250,41,"Which country does this flag belong to?","Kenya,Mali,Argentina,Poland,India","Argentina","country_flag/11.png"
+10251,41,"Which country does this flag belong to?","Brazil,Libya,Morocco,Sweden,Uganda","Brazil","country_flag/12.png"
+10252,41,"Which country does this flag belong to?","Bolivia,Kenya,Mexico,Norway,Peru","Mexico","country_flag/13.png"
+10253,41,"Which country does this flag belong to?","Gabon,Iran,Iraq,South Africa,Sudan","Sudan","country_flag/14.png"
+10254,41,"Which country does this flag belong to?","Chad,Chile,Egypt,Indonesia,Yemen","Chad","country_flag/15.png"
+10255,41,"Which country does this flag belong to?","Botswana,Burkina Faso,Egypt,Kazakhstan,Sweden","Kazakhstan","country_flag/16.png"
+10256,41,"Which country does this flag belong to?","China,France,India,Indonesia,Peru","Peru","country_flag/17.png"
+10257,41,"Which country does this flag belong to?","China,Ecuador,France,Oman,Philippines","China","country_flag/18.png"
+10258,41,"Which country does this flag belong to?","Canada,Chad,Madagascar,Saudi Arabia,Somalia","Canada","country_flag/19.png"
+10259,41,"Which country does this flag belong to?","Algeria,Angola,Australia,Mauritania,Poland","Australia","country_flag/20.png"
+10260,51,"What is the population of Algeria?","no answers","40375954","country_population/Algeria.png"
+10261,51,"What is the population of Russia?","no answers","143439832","country_population/Russia.png"
+10262,51,"What is the population of Kazakhstan?","no answers","17855384","country_population/Kazakhstan.png"
+10263,51,"What is the population of India?","no answers","1326801576","country_population/India.png"
+10264,51,"What is the population of China?","no answers","1382323332","country_population/China.png"
+10265,51,"What is the population of United States of America?","no answers","324118787","country_population/United States of America.png"
+10266,51,"What is the population of Iran?","no answers","80043146","country_population/Iran.png"
+10267,51,"What is the population of Chile?","no answers","18131850","country_population/Chile.png"
+10268,51,"What is the population of Mexico?","no answers","128632004","country_population/Mexico.png"
+10269,51,"What is the population of Saudi Arabia?","no answers","32157974","country_population/Saudi Arabia.png"
+10270,51,"What is the population of Guatemala?","no answers","16672956","country_population/Guatemala.png"
+10271,51,"What is the population of Argentina?","no answers","43847277","country_population/Argentina.png"
+10272,51,"What is the population of Greece?","no answers","10919459","country_population/Greece.png"
+10273,51,"What is the population of Canada?","no answers","36286378","country_population/Canada.png"
+10274,51,"What is the population of Australia?","no answers","24309330","country_population/Australia.png"
+10275,51,"What is the population of Brazil?","no answers","209567920","country_population/Brazil.png"
+10276,51,"What is the population of Tanzania?","no answers","55155473","country_population/Tanzania.png"
+10277,51,"What is the population of Indonesia?","no answers","260581100","country_population/Indonesia.png"
+10278,51,"What is the population of Ethiopia?","no answers","101853268","country_population/Ethiopia.png"
+10279,51,"What is the population of Colombia?","no answers","48654392","country_population/Columbia.png"
+10280,60,"Which country does this land border correspond to?","Guatemala,Canada,Turkey,Egypt,Panama","Egypt","country_shape/country_shape_egypt.png"
+10281,60,"Which country does this land border correspond to?","Turkey,Libya,China,France,Greece","France","country_shape/country_shape_france.png"
+10282,60,"Which country does this land border correspond to?","Philipines,The Bahamas,Cuba,Russia,Portugal","Philipines","country_shape/country_shape_phillipines.png"
+10283,60,"Which country does this land border correspond to?","Iceland,Cameroon,Togo,Uganda,Burma","Iceland","country_shape/country_shape_iceland.png"
+10284,60,"Which country does this land border correspond to?","Panama,Oman,Poland,Ghana,Sudan","Panama","country_shape/country_shape_panama.png"
+10285,60,"Which country does this land border correspond to?","USA,Canada,Jamaica,Argentina,Saudi Arabia","USA","country_shape/country_shape_usa.png"
+10286,60,"Which country does this land border correspond to?","Vietnam,Malawi,Pakistan,Spain,Belgium","Vietnam","country_shape/country_shape_vietnam.png"
+10287,60,"Which country does this land border correspond to?","Iran,Mali,Peru,South Sudan,Cuba","Cuba","country_shape/country_shape_cuba.png"
+10288,60,"Which country does this land border correspond to?","Mexico,Haiti,Ghana,Sierra Leone,Russia","Mexico","country_shape/country_shape_mexico.png"
+10289,60,"Which country does this land border correspond to?","Saudi Arabia,Pakistan,Finland,Syria,Belgium","Saudi Arabia","country_shape/country_shape_saudiarabia.png"
+10290,60,"Which country does this land border correspond to?","Spain,Australia,Kazakhstan,Tunisia,United Kingdom","Spain","country_shape/country_shape_spain.png"
+10291,60,"Which country does this land border correspond to?","Turkey,Peru,Paraguay,United States,Switzerland","Turkey","country_shape/country_shape_turkey.png"
+10292,60,"Which country does this land border correspond to?","Greece,India,Venezuela,Angola ,Colombia","Greece","country_shape/country_shape_greece.png"
+10293,60,"Which country does this land border correspond to?","Canada,Uganda,Rwanda,Colombia,France","Canada","country_shape/country_shape_canada.png"
+10294,60,"Which country does this land border correspond to?","Norway,Colombia,Cameroon,Madagascar,Nigeria","Norway","country_shape/country_shape_norway.png"
+10295,60,"Which country does this land border correspond to?","South Africa,Denmark,Yemen,Iran,Brazil","South Africa","country_shape/country_shape_south_africa.png"
+10296,60,"Which country does this land border correspond to?","Iraq,Venezuela,Brazil,Zimbabwe,Ireland","Iraq","country_shape/country_shape_iraq.png"
+10297,60,"Which country does this land border correspond to?","Indonesia,China,Armenia,Mexico,Thailand","Indonesia","country_shape/country_shape_indonesia.png"
+10298,60,"Which country does this land border correspond to?","Japan,Uzbekistan,Italy,France,Austria","Japan","country_shape/country_shape_japan.png"
+10299,60,"Which country does this land border correspond to?","New Zealand,Algeria,Bangladesh,Nigeria,Morocco","New Zealand","country_shape/country_shape_newzealand.png"
+10300,97,"How many Malayesias fit into the continental U.S.?","no answers","24.4","country_size_ratio/question1.png"
+10301,97,"How many Pakistans fit into the continental U.S.?","no answers","10.2","country_size_ratio/question2.png"
+10302,97,"How many Mauritianias fit into the continental U.S.?","no answers","7.8","country_size_ratio/question3.png"
+10303,97,"How many El Salvadors fit into the continental U.S.?","no answers","384","country_size_ratio/question4.png"
+10304,97,"How many Costa Ricas fit into the continental U.S.?","no answers","158.4","country_size_ratio/question5.png"
+10305,97,"How many Tunisias fit into the continental U.S.?","no answers","49.4","country_size_ratio/question6.png"
+10306,97,"How many Germanys fit into the continental U.S.?","no answers","22.6","country_size_ratio/question7.png"
+10307,97,"How many Portugals fit into the continental U.S.?","no answers","87.7","country_size_ratio/question8.png"
+10308,97,"How many Greeces fit into the continental U.S.?","no answers","61.2","country_size_ratio/question9.png"
+10309,97,"How many Thailands fit into the continental U.S.?","no answers","15.7","country_size_ratio/question10.png"
+10310,97,"How many Armenias fit into the continental U.S.?","no answers","271.7","country_size_ratio/question11.png"
+10311,97,"How many Turkeys fit into the continental U.S.?","no answers","10.3","country_size_ratio/question12.png"
+10312,97,"How many Bangladeshs fit into the continental U.S.?","no answers","54.8","country_size_ratio/question13.png"
+10313,97,"How many Latvias fit into the continental U.S.?","no answers","125.1","country_size_ratio/question14.png"
+10314,97,"How many Indias fit into the continental U.S.?","no answers","2.5","country_size_ratio/question15.png"
+10315,97,"How many Australias fit into the continental U.S.?","no answers","1.1","country_size_ratio/question16.png"
+10316,97,"How many Mongolias fit into the continental U.S.?","no answers","5.2","country_size_ratio/question17.png"
+10317,97,"How many Zimbabwes fit into the continental U.S.?","no answers","20.7","country_size_ratio/question18.png"
+10318,97,"How many Spains fit into the continental U.S.?","no answers","16","country_size_ratio/question19.png"
+10319,97,"How many Kenyas fit into the continental U.S.?","no answers","13.9","country_size_ratio/question20.png"
+10320,22,"What is the distance in miles between San Francisco, CA and Las Vegas, NV?","no answers","569",NA
+10321,22,"What is the distance in miles between Houston, TX and Atlanta, GA?","no answers","793",NA
+10322,22,"What is the distance in miles between Denver, CO and Salt Lake City, UT?","no answers","522",NA
+10323,22,"What is the distance in miles between Newark, NJ and Portland, OR?","no answers","2884",NA
+10324,22,"What is the distance in miles between Los Angeles, CA and Seattle, WA?","no answers","1135",NA
+10325,22,"What is the distance in miles between Providence, RI and Boston, MA?","no answers","50",NA
+10326,22,"What is the distance in miles between Columbus, OH and Jacksonville, FL?","no answers","808",NA
+10327,22,"What is the distance in miles between Albuquerque, NM and Dallas, TX?","no answers","644",NA
+10328,22,"What is the distance in miles between Fargo, ND and Milwaukee, WI?","no answers","571",NA
+10329,22,"What is the distance in miles between Charlotte, NC and Atlanta, GA?","no answers","302",NA
+10330,22,"What is the distance in miles between Salt Lake City, UT and New Orleans, LA?","no answers","1747",NA
+10331,22,"What is the distance in miles between Houston, TX and Pittsburgh, PA?","no answers","298",NA
+10332,22,"What is the distance in miles between Burlington, VT and Bridgeport, CT?","no answers","288",NA
+10333,22,"What is the distance in miles between Charleston, SC and Omaha, NE?","no answers","1291",NA
+10334,22,"What is the distance in miles between Fargo, ND and Seattle, WA?","no answers","1426",NA
+10335,22,"What is the distance in miles between Oklahoma City, OK and Des Moines, IA?","no answers","546",NA
+10336,22,"What is the distance in miles between Portland, ME and Baltimore, MD?","no answers","504",NA
+10337,22,"What is the distance in miles between Burlington, VT and Detroit, MI?","no answers","640",NA
+10338,22,"What is the distance in miles between Memphis, TN and Kansas City, KS?","no answers","454",NA
+10339,22,"What is the distance in miles between Chicago, IL and Richmond, VA?","no answers","799",NA
+10340,25,"What is the breed of this dog?","Brittany, Bullmastiff, Golden Retreiver, Jack Russell Terrier, Labrador Retriever","Labrador Retriever","dog_breeds/dog1.png"
+10341,25,"What is the breed of this dog?","Bichon Frise, Griffon Bruxellois , Maltese, Pomeranian, Weimaraner","Maltese","dog_breeds/dog2.png"
+10342,25,"What is the breed of this dog?","Boston Terrier, Cocker Spaniel, Dalmatian, German Shorthaired Pointer, Shetland Sheepdog","Cocker Spaniel","dog_breeds/dog3.png"
+10343,25,"What is the breed of this dog?","Old English Sheepdog, Australian Cattle Dog Border Collie, Australian Sheppard, Afghan Hound","Old English Sheepdog","dog_breeds/dog4.png"
+10344,25,"What is the breed of this dog?","Bloodhound, Havanese, Labrador Retriever, Maltese, Yorkshire Terrier","Yorkshire Terrier","dog_breeds/dog5.png"
+10345,25,"What is the breed of this dog?","Dachshund, Doberman, Fox Terrier, German Shepherd, Rottweiler","Doberman","dog_breeds/dog6.png"
+10346,25,"What is the breed of this dog?","Bullmastiff, Cairn Terrier, Great Dane, Dalmatian, St. Bernard","Great Dane","dog_breeds/dog7.png"
+10347,25,"What is the breed of this dog?","Basset Hound, Boxer, Collie, Dachshund, Norwich Terrier","Dachshund","dog_breeds/dog8.png"
+10348,25,"What is the breed of this dog?","Bloodhound, Pug, English Springer Spaniel, English Mastiff, Beagle","English Mastiff","dog_breeds/dog9.png"
+10349,25,"What is the breed of this dog?","Pointer, Bull Terrier, Maltese, Boxer, Bulldog","Bull Terrier","dog_breeds/dog10.png"
+10350,25,"What is the breed of this dog?","Boxer, Bulldog, Beagle, Pug, Tibetan Spaniel","Pug","dog_breeds/dog11.png"
+10351,25,"What is the breed of this dog?","Bichon Frise, Lhasa Apso, Pekingese, Pomeranian, Portuguese Water Dog","Pomeranian","dog_breeds/dog12.png"
+10352,25,"What is the breed of this dog?","Anatolian Shepherd, Doberman, Great Dane, Mastiff, Rottweiler","Rottweiler","dog_breeds/dog13.png"
+10353,25,"What is the breed of this dog?","Boston Terrier, Collie, Labrador Retriever, St. Bernard, Whippet","St. Bernard","dog_breeds/dog14.png"
+10354,25,"What is the breed of this dog?","Basset Hound, Beagle, Bernese Mountain Dog, Boxer, Miniature Schnauzer","Beagle","dog_breeds/dog15.png"
+10355,25,"What is the breed of this dog?","Shiba Inu, Miniature Pinscher, Miniature Schnauzer, Shih Tzu, Vizslas","Shiba Inu","dog_breeds/dog16.png"
+10356,25,"What is the breed of this dog?","Bichon Frise, Boston Terrier, Boxer, English Mastiff, English Springer Spaniel","Boxer","dog_breeds/dog17.png"
+10357,25,"What is the breed of this dog?","Alaskan Malamute, Dachshund, German Shepherd, Siberian Husky, St. Bernard","Siberian Husky","dog_breeds/dog18.png"
+10358,25,"What is the breed of this dog?","Airedale Terrier, Irish Wolfhound, Basset Hound, German Shorthaired Pointer","Basset Hound","dog_breeds/dog19.png"
+10359,25,"What is the breed of this dog?","Whippet, Pekingese, Lhasa Apso, Akita, Chow Chow","Lhasa Apso","dog_breeds/dog20.png"
+10360,2,"What emotion is being expressed?","jealous, panicked, arrogant, hateful","panicked","emotion_eyes/question1.png"
+10361,2,"What emotion is being expressed?","playful, comforting, irritated, bored","playful","emotion_eyes/question2.png"
+10362,2,"What emotion is being expressed?","terrified, upset, arrogant, annoyed","upset","emotion_eyes/question3.png"
+10363,2,"What emotion is being expressed?","joking, flustered, desire, convinced","desire","emotion_eyes/question4.png"
+10364,2,"What emotion is being expressed?","joking, insisting, amused, relaxed","insisting","emotion_eyes/question5.png"
+10365,2,"What emotion is being expressed?","irritated, sarcastic, worried, friendly","worried","emotion_eyes/question6.png"
+10366,2,"What emotion is being expressed?","aghast, fantasizing, impatient, alarmed","fantasizing","emotion_eyes/question7.png"
+10367,2,"What emotion is being expressed?","apologetic, friendly, uneasy, dispirited","uneasy","emotion_eyes/question8.png"
+10368,2,"What emotion is being expressed?","despondent, relieved, shy, excited","despondent","emotion_eyes/question9.png"
+10369,2,"What emotion is being expressed?","annoyed, hostile, horrified, preoccupied","preoccupied","emotion_eyes/question10.png"
+10370,2,"What emotion is being expressed?","cautious, insisting, bored, aghast","cautious","emotion_eyes/question11.png"
+10371,2,"What emotion is being expressed?","terrified, amused, regretful, flirtatious","regretful","emotion_eyes/question12.png"
+10372,2,"What emotion is being expressed?","decisive, anticipating, threatening, shy","anticipating","emotion_eyes/question13.png"
+10373,2,"What emotion is being expressed?","irritated, disappointed, depressed, accusing","accusing","emotion_eyes/question14.png"
+10374,2,"What emotion is being expressed?","contemplating, flustered, encouraging, amused","contemplating","emotion_eyes/question15.png"
+10375,2,"What emotion is being expressed?","irritated, thoughtful, encouraging, sympathetic","thoughtful","emotion_eyes/question16.png"
+10376,2,"What emotion is being expressed?","doubtful, affectionate, playful, aghast","doubtful","emotion_eyes/question17.png"
+10377,2,"What emotion is being expressed?","decisive, amused, aghast, bored","decisive","emotion_eyes/question18.png"
+10378,2,"What emotion is being expressed?","arrogant, grateful, sarcastic, tentative","tentative","emotion_eyes/question19.png"
+10379,2,"What emotion is being expressed?","dominant, friendly, guilty, horrified","friendly","emotion_eyes/question20.png"
+10380,81,"What is the average energy consumption of a typical air conditioner (large window unit, 20,000 BTU) in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","1400","energy/qn1.png"
+10381,81,"What is the average energy consumption of a typical alarm clock radio in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","2","energy/qn2.png"
+10382,81,"What is the average energy consumption of a typical desktop computer (not including the monitor) in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","100","energy/qn3.png"
+10383,81,"What is the average energy consumption of a typical iron (heated on high) in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","1100","energy/qn4.png"
+10384,81,"What is the average energy consumption of a typical clothes dryer in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","3000","energy/qn5.png"
+10385,81,"What is the average energy consumption of a typical vacuum cleaner (an average, best+AC0-selling model) in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","1400","energy/qn6.png"
+10386,81,"What is the average energy consumption of a typical Wi+AC0-Fi router in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","6","energy/qn7.png"
+10387,81,"What is the average energy consumption of a typical clothes washer (medium load) in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","850","energy/qn8.png"
+10388,81,"What is the average energy consumption of a typical mircrowave in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","1200","energy/qn9.png"
+10389,81,"What is the average energy consumption of a typical hair dryer (on high heat) in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","1500","energy/qn10.png"
+10390,81,"What is the average energy consumption of a typical dishwasher (average size, on normal cycle) in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","1800","energy/qn11.png"
+10391,81,"What is the average energy consumption of a typical 14+AC0-15 inch laptop (when plugged in) in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","60","energy/qn12.png"
+10392,81,"What is the average energy consumption of a typical coffee maker (2 cups) in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","450","energy/qn13.png"
+10393,81,"What is the average energy consumption of a typical bread toaster (2 slices) in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","1200","energy/qn14.png"
+10394,81,"What is the average energy consumption of a typical cell phone charger in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","5","energy/qn15.png"
+10395,81,"What is the average energy consumption of a typical (48 inch) ceiling fan in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","75","energy/qn16.png"
+10396,81,"What is the average energy consumption of a typical 22 inch LED+AC0-backlit LCD display in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","30","energy/qn17.png"
+10397,81,"What is the average energy consumption of a typical refrigerator (modern, energy+AC0-efficient model) in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","225","energy/qn18.png"
+10398,81,"What is the average energy consumption of a typical printer (commercial used in an office, when printing) in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","400","energy/qn19.png"
+10399,81,"What is the average energy consumption of a typical oven (on medium to high heat) in Watts? As a benchmark, a typical light bulb uses 60 +AC0- 100 Watts.","no answers","2400","energy/qn20.png"
+10400,96,"What is the name of this flower?","Pansy, Iris, Dahlia, Jack+AC0-in+AC0-the+AC0-Pulpit","Iris","flowers/question1.png"
+10401,96,"What is the name of this flower?","Gardenia, Apple Blossom, Calla, Begonia","Gardenia","flowers/question2.png"
+10402,96,"What is the name of this flower?","Goldenrod, Chrysanthemum, Daisy, Blackeyed Susan","Daisy","flowers/question3.png"
+10403,96,"What is the name of this flower?","Lilac, Lavender, Rhododendron, Bleeding Heart","Lavender","flowers/question4.png"
+10404,96,"What is the name of this flower?","Orchid, Gardenia, Pansy, Caladium","Orchid","flowers/question5.png"
+10405,96,"What is the name of this flower?","Calla, Dahlia, Peony, Daffodil","Dahlia","flowers/question6.png"
+10406,96,"What is the name of this flower?","Hydrangea, Laurel, Azalea, Daisy","Hydrangea","flowers/question7.png"
+10407,96,"What is the name of this flower?","Orchid, Poppy, Calla, Geranium","Calla","flowers/question8.png"
+10408,96,"What is the name of this flower?","Trillium, Lavender, Tulip, Lily","Tulip","flowers/question9.png"
+10409,96,"What is the name of this flower?","Lilac, Bluebonnet, Cherry blossom, Marigold","Lilac","flowers/question10.png"
+10410,96,"What is the name of this flower?","Iris, Hydrangea, Hyacinth, Morning Glory","Hydrangea","flowers/question11.png"
+10411,96,"What is the name of this flower?","Asiatic Lily, Oriental Lily, Snap Dragon, Petunia","Asiatic Lily","flowers/question12.png"
+10412,96,"What is the name of this flower?","Peony, Poinsettia, Raunculus, Primrose","Poinsettia","flowers/question13.png"
+10413,96,"What is the name of this flower?","Stephanotis, Waxflower, Statice, Tulip","Stephanotis","flowers/question14.png"
+10414,96,"What is the name of this flower?","Gerbera, Dahlia, Dephinium, Violet","Gerbera","flowers/question15.png"
+10415,96,"What is the name of this flower?","Petunia, Carnation, Chrsyanthemum, Snap Dragon","Chrsyanthemum","flowers/question16.png"
+10416,96,"What is the name of this flower?","Iris, Snap Dragon, Cosmo, Cardinal Flower","Snap Dragon","flowers/question17.png"
+10417,96,"What is the name of this flower?","Petunia, Daffodil, Carnation, Begonia","Carnation","flowers/question18.png"
+10418,96,"What is the name of this flower?","Lily of the valley, Amaryllis, Anthurium, Azalea","Lily of the valley","flowers/question19.png"
+10419,96,"What is the name of this flower?","Plumeria, Magnolia, Forget+AC0-me+AC0-not, Anemone","Magnolia","flowers/question20.png"
+10420,72,"What is the per+AC0-capita GDP of Argentina in US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","19126",NA
+10421,72,"What is the per+AC0-capita GDP of Nepal n US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","2313",NA
+10422,72,"What is the per+AC0-capita GDP of Trinidad and Tobago in US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","30677",NA
+10423,72,"What is the per+AC0-capita GDP of Ireland in US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","51899",NA
+10424,72,"What is the per+AC0-capita GDP of Kenya in US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","2901",NA
+10425,72,"What is the per+AC0-capita GDP of Hong Kong in US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","53380",NA
+10426,72,"What is the per+AC0-capita GDP of Italy in US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","33587",NA
+10427,72,"What is the per+AC0-capita GDP of China in US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","13400",NA
+10428,72,"What is the per+AC0-capita GDP of Germany in US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","44053",NA
+10429,72,"What is the per+AC0-capita GDP of India in US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","5730",NA
+10430,72,"What is the per+AC0-capita GDP of South Africa in US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","12390",NA
+10431,72,"What is the per+AC0-capita GDP of Hungary in US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","24475",NA
+10432,72,"What is the per+AC0-capita GDP of Costa Rica in US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","14471",NA
+10433,72,"What is the per+AC0-capita GDP of Finland in US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","38643",NA
+10434,72,"What is the per+AC0-capita GDP of Mexico in US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","16502",NA
+10435,72,"What is the per+AC0-capita GDP of Sri Lanka in US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","11048",NA
+10436,72,"What is the per+AC0-capita GDP of Morocco in US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","7361",NA
+10437,72,"What is the per+AC0-capita GDP of the Philippines in US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","6926",NA
+10438,72,"What is the per+AC0-capita GDP of the United Arab Emirates in US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","66102",NA
+10439,72,"What is the per+AC0-capita GDP of Thailand in US dollars? As reference, the per+AC0-capita GDP of the USA is +ACQ-52,550.","no answers","15345",NA
+10440,95,"In what year was Abraham Lincoln assassinated?","no answers","1865",NA
+10441,95,"In what year did the Louisiana Purchase (acquisition of 828,000 square miles by the US from France) take place?","no answers","1803",NA
+10442,95,"In what year did the Manhattan project begin?","no answers","1942",NA
+10443,95,"In what year did the Vietnam war end?","no answers","1975",NA
+10444,95,"In what year was John F. Kennedy assassinated?","no answers","1963",NA
+10445,95,"In what year did the Civil War begin?","no answers","1861",NA
+10446,95,"In what year did the American Revolution end?","no answers","1783",NA
+10447,95,"In what year did the Apollo 11 spacecraft land on the moon?","no answers","1969",NA
+10448,95,"In what year was the Declaration of Independence signed?","no answers","1776",NA
+10449,95,"In what year did the Great Migration begin (a mass relocation of 6 million African Americans)?","no answers","1915",NA
+10450,95,"In what year were the first slaves brought to the US?","no answers","1619",NA
+10451,95,"In what year did the Great Depression begin?","no answers","1929",NA
+10452,95,"In what year did Prohibition begin in the US?","no answers","1920",NA
+10453,95,"In what year was Jamestown, Virginia founded (the first English settlement in North America)?","no answers","1607",NA
+10454,95,"In what year did the 'Boston Tea Party' protest take place?","no answers","1773",NA
+10455,95,"In what year did the Mayflower ship reach the US?","no answers","1620",NA
+10456,95,"In what year did the attack on Pear Harbor take place?","no answers","1941",NA
+10457,95,"In what year was the North Atlantic Treaty signed?","no answers","1949",NA
+10458,95,"In what year did the Salem Witch Trials take place?","no answers","1692",NA
+10459,95,"In what year did the French and Indian War begin?","no answers","1754",NA
+10460,7,"In which country is the landmark located?","Germany, France,Italy,London, Spain","France","historical_landmarks/pic7.png"
+10461,7,"In which country is the landmark located?","Tibet, Thailand, Japan, Myanmar, Bhutan","Tibet","historical_landmarks/pic1.png"
+10462,7,"In which country is the landmark located?","Austria,France,Indonesia,Japan,Spain","Spain","historical_landmarks/Parc Guell.png"
+10463,7,"In which country is the landmark located?","Belgium, Spain, Croatia, Italy, Denmark","Italy","historical_landmarks/pic2.png"
+10464,7,"In which country is the landmark located?","Hong Kong, Japan, Indonesia, China, Cambodia","China","historical_landmarks/pic5.png"
+10465,7,"In which country is the landmark located?","Egypt,France,Israel,Turkey,Zimbabwe","Turkey","historical_landmarks/Agia Sophia.png"
+10466,7,"In which country is the landmark located?","England,Germany,Lebanon,Morocco,United States","Germany","historical_landmarks/Brandenburg-Gate.png"
+10467,7,"In which country is the landmark located?","Italy,England,France,Russia,Singapore","England","historical_landmarks/pic4.png"
+10468,7,"In which country is the landmark located?","Chile,Kenya,Russia,Spain,United States","Russia","historical_landmarks/St Basils Cathedral.png"
+10469,7,"In which country is the landmark located?","China,Egypt,Greece,Indonesia,South Africa","Italy","historical_landmarks/pompeii.png"
+10470,7,"In which country is the landmark located?","Algeria,Austria,China,Kenya,Saudi Arabia","Saudi Arabia","historical_landmarks/Mecca.png"
+10471,7,"In which country is the landmark located?","Egypt,Jordan,Morocco,Spain,Turkey","Egypt","historical_landmarks/Luxor Temple.png"
+10472,7,"In which country is the landmark located?","Brazil,Indonesia,Mexico,Russia,Singapore","Mexico","historical_landmarks/Chichen Itza.png"
+10473,7,"In which country is the landmark located?","Japan,Jordan,Malaysia,Singapore,South Africa","Japan","historical_landmarks/The Great Buddha Of Kamakura.png"
+10474,7,"In which country is the landmark located?","Chile,Egypt,Indonesia,Malaysia,Cambodia","Indonesia","historical_landmarks/Temple of Besakih.png"
+10475,7,"In which country is the landmark located?","Algeria,Italy,Greece,Russia,Turkey","Greece","historical_landmarks/Acropolis of Athens.png"
+10476,7,"In which country is the landmark located?","China,Brazil,Indonesia,Argentina,Peru","Peru","historical_landmarks/Machu Picchu.png"
+10477,7,"In which country is the landmark located?","Argentina,Canada,India,Lebanon,Uganda","India","historical_landmarks/pic3.png"
+10478,7,"In which country is the landmark located?","Brazil,Egypt,India,Jordan,Lebanon","Egypt","historical_landmarks/pic6.png"
+10479,7,"In which country is the landmark located?","United Arab Emirates, Saudi Arabia, Shanghai, Hong Kong, Japan","Italy","historical_landmarks/pic8.png"
+10480,94,"On what date in 2017 will Columbus Day fall?","October 1, October 5, October 7, October 9, October 11, October 14","October 9",NA
+10481,94,"On what date in 2017 will Martin Luther King Day fall?","January 5, January 13, January 16, February 6, February 12, February 16","January 16",NA
+10482,94,"On what date in 2017 will Holi fall?","February 4, February 19, March 13, March 21, April 3, April 16","March 13",NA
+10483,94,"On what date in 2017 will Labor Day fall?","September 2, September 4, September 6, September 10, October 5, October 7","September 4",NA
+10484,94,"On what date in 2017 will Emancipation day fall?","April 4, April 17, May 1, May 6, May 12, May 26","April 17",NA
+10485,94,"On what date in 2017 will Chinese New Year's eve fall?","January 14, January 21, January 27, February 5, February 14, February 18","January 27",NA
+10486,94,"On what date in 2017 will Mother's day fall?","May 7, May 14, May 21, May 28, June 2, June 14","May 14",NA
+10487,94,"On what date in 2017 will Father's day fall?","June 18, June 21, June 28, July 5, July 14, July 20","June 18",NA
+10488,94,"On what date in 2017 will Independence day fall?","June 1, June 4, July 1, July 2, July 4, August 1","July 4",NA
+10489,94,"On what date in 2017 will Veterans day fall?","September 9, September 10, October 9, October 10, November 9, November 10","November 10",NA
+10490,94,"On what date in 2017 will Easter Monday fall?","April 17, May 1, May 17, May 21, May 28, June 2","April 17",NA
+10491,94,"On what date in 2017 will President's Day fall?","February 2, February 12, February 20, March 5, March 16, March 18","February 20",NA
+10492,94,"On what date in 2017 will Earth day fall?","April 2, April 22, May 2, May 22, June 2, June 22","April 22",NA
+10493,94,"On what date in 2017 will Eid al+AC0-Fitr (last day of Ramadan) fall?","February 12, April 25, May 5, May 25, June 25, July 12","June 25",NA
+10494,94,"On what date in 2017 will International Women's day fall?","March 5, March 25, March 30, April 5, April 25, April 28","March 8",NA
+10495,94,"On what date in 2017 will the first day of Diwali fall?","September 2, September 19, October 4, October 19, October 29, November 6","October 19",NA
+10496,94,"On what date in 2017 will Groundhog day fall?","January 22, January 29, February 2, February 16, February 21, March 5","February 2",NA
+10497,94,"On what date in 2017 will St. Patrick's day fall?","March 17, March 21, March 22, March 27, April 21, April 27","March 17",NA
+10498,94,"On what date in 2017 will Pearl Harbor Remembrance day fall?","October 9, October 18, November 21, November 28, December 1, December 7","December 7",NA
+10499,94,"On what date in 2017 will the first day of Chanukah fall?","December 1, December 12, January 6, January 12, January 20, January 28","December 12",NA
+10500,73,"What does 'To make clean breast of' mean?","To gain prominence, To praise oneself, To confess without of reserve, To destroy before it blooms, None of these","To confess without of reserve",NA
+10501,73,"What does 'To keeps one's temper' mean?","To become hungry, To be in good mood, To preserve ones energy, To be aloof from, None of these","To be in good mood",NA
+10502,73,"What does 'To catch a tartar' mean?","To trap wanted criminal with great difficulty, To catch a dangerous person, To meet with disaster, To deal with a person who is more than one's match, None of these","To catch a dangerous person",NA
+10503,73,"What does 'To drive home' mean?","To find one's roots, To return to place of rest, Back to original position, To emphasize, None of these","To emphasize",NA
+10504,73,"What does 'To have an axe to grind' mean?","A private end to serve, To fail to arouse interest, To have no result, To work for both sides, None of these","A private end to serve",NA
+10505,73,"What does 'To cry wolf' mean?","To listen eagerly, To give false alarm, To turn pale, To keep off starvation, None of these","To give false alarm",NA
+10506,73,"What does 'To end in smoke' mean?","To make completely understand, To ruin oneself, To excite great applause, To overcome someone, None of these","To ruin oneself",NA
+10507,73,"What does 'To be above board' mean?","To have a good height, To be honest in any business deal, They have no debts, To try to be beautiful, None of these","To be honest in any business deal",NA
+10508,73,"What does 'To put one's hand to plough' mean?","To take up agricultural farming, To take a difficult task, To get entangled into unnecessary things, Take interest in technical work, None of these","To take a difficult task",NA
+10509,73,"What does 'To pick holes' mean?","To find some reason to quarrel, To destroy something, To criticize someone, To cut some part of an item, None of these","To criticize someone",NA
+10510,73,"What does 'To leave someone in the lurch' mean?","To come to compromise with someone, Constant source of annoyance to someone, To put someone at ease, To desert someone in his difficulties, None of these","To desert someone in his difficulties,",NA
+10511,73,"What does 'To play second fiddle' mean?","To be happy, cheerful and healthy, To reduce importance of one's senior, To support the role and view of another person, To do back seat driving, None of these","To support the role and view of another person",NA
+10512,73,"What does 'To beg the question' mean?","To refer to, To take for granted, To raise objections, To be discussed, None of these","To take for granted",NA
+10513,73,"What does 'A black sheep' mean?","An unlucky person, A lucky person, An ugly person, A partner who takes no share of the profits, None of these","None of these",NA
+10514,73,"What does 'A man of straw' mean?","A man of no substance, A very active person, A worthy fellow, An unreasonable person, None of these","A man of no substance",NA
+10515,73,"What does 'To smell a rat' mean?","To see signs of plague epidemic, To get bad small of a bad dead rat, To suspect foul dealings, To be in a bad mood, None of these","To suspect foul dealings",NA
+10516,73,"What does 'To hit the nail right on the head' mean?","To do the right thing, To destroy one's reputation, To announce one's fixed views, To teach someone a lesson, None of these","To do the right thing",NA
+10517,73,"What does 'To set one's face against' mean?","To oppose with determination, To judge by appearance, To get out of difficulty, To push against, None of these","To oppose with determination",NA
+10518,73,"What does 'To throw a wet blanket' mean?","To conceal, To spoil others' enjoyment, To soak, To interrupt someone, None of these","To spoil others' enjoyment",NA
+10519,73,"What does 'To put all your eggs in one basket' mean?","To invest in one outcome, To be an optimist, To be efficient, To be negligent, None of these","To invest in one outcome",NA
+10520,74,"What language is this?","Chinese (Wu), Chinese (Yue), Swahili, Swedish","Chinese (Wu)","language_audio/language_audio_1.mp3"
+10521,74,"What language is this?","Danish, Swahili, Turkish, Ukrainian","Ukrainian","language_audio/language_audio_2.mp3"
+10522,74,"What language is this?","Arabic (Standard), Hindi, Polish, Urdu","Urdu","language_audio/language_audio_3.mp3"
+10523,74,"What language is this?","Arabic (Standard), Finnish, Javanese, Polish","Arabic (Standard)","language_audio/language_audio_4.mp3"
+10524,74,"What language is this?","Danish, Haitian, Korean, Norwegian","Danish","language_audio/language_audio_5.mp3"
+10525,74,"What language is this?","Haitian, Romanian, Russian, Swahili","Russian","language_audio/language_audio_6.mp3"
+10526,74,"What language is this?","English, Haitian, Polish, Swahili","Polish","language_audio/language_audio_7.mp3"
+10527,74,"What language is this?","Finnish, Korean, Romanian, Thai","Korean","language_audio/language_audio_8.mp3"
+10528,74,"What language is this?","Korean, Tamil, Turkish, Vietnamese","Tamil","language_audio/language_audio_9.mp3"
+10529,74,"What language is this?","Afrikaans, Javanese, Korean, Russian","Javanese","language_audio/language_audio_10.mp3"
+10530,74,"What language is this?","Hausa, Swedish, Uzbek (Northern), Vietnamese","Hausa","language_audio/language_audio_11.mp3"
+10531,74,"What language is this?","Afrikaans, French, Thai, Urdu","Thai","language_audio/language_audio_12.mp3"
+10532,74,"What language is this?","Afrikaans, Chinese (Mandarin), English, Korean","Afrikaans","language_audio/language_audio_13.mp3"
+10533,74,"What language is this?","French, Italian, Japanese, Marathi","French","language_audio/language_audio_14.mp3"
+10534,74,"What language is this?","German (Standard), Hindi, Ossetic, Polish","Ossetic","language_audio/language_audio_15.mp3"
+10535,74,"What language is this?","Arabic (Standard), Swedish, Telugu, Thai","Telugu","language_audio/language_audio_16.mp3"
+10536,74,"What language is this?","Arabic (Standard), Javanese, Spanish, Thai","Spanish","language_audio/language_audio_17.mp3"
+10537,74,"What language is this?","Chinese (Yue), English, Finnish, Japanese","Japanese","language_audio/language_audio_18.mp3"
+10538,74,"What language is this?","Arabic (Standard), Hausa, Swahili, Swedish","Swahili","language_audio/language_audio_19.mp3"
+10539,74,"What language is this?","German (Standard), Italian, Polish, Uzbek (Northern)","Italian","language_audio/language_audio_20.mp3"
+10540,78,"","A, B, C, D","A","legal_rights/question1.png"
+10541,78,"","A, B, C, D","C","legal_rights/question2.png"
+10542,78,"","A, B, C, D","B","legal_rights/question3.png"
+10543,78,"","A, B, C, D","D","legal_rights/question4.png"
+10544,78,"","A, B, C","B","legal_rights/question5.png"
+10545,78,"","A, B, C","C","legal_rights/question6.png"
+10546,78,"","A, B, C, D","D","legal_rights/question7.png"
+10547,78,"","A, B, C, D","B","legal_rights/question8.png"
+10548,78,"","A, B, C, D","C","legal_rights/question9.png"
+10549,78,"","A, B, C, D","A","legal_rights/question10.png"
+10550,78,"","A, B, C, D","D","legal_rights/question11.png"
+10551,78,"","A, B, C, D","C","legal_rights/question12.png"
+10552,78,"","A, B, C, D","C","legal_rights/question13.png"
+10553,78,"","A, B, C, D","D","legal_rights/question14.png"
+10554,78,"","A, B, C","C","legal_rights/question15.png"
+10555,78,"","A, B, C","B","legal_rights/question16.png"
+10556,78,"","A, B, C, D","D","legal_rights/question17.png"
+10557,78,"","A, B, C","B","legal_rights/question18.png"
+10558,78,"","A, B, C, D","D","legal_rights/question19.png"
+10559,78,"","A, B, C, D","D","legal_rights/question20.png"
+10560,1,"","A, B, C, D","C","logic/question1.png"
+10561,1,"","A, B, C, D","C","logic/question2.png"
+10562,1,"","A, B, C, D","D","logic/question3.png"
+10563,1,"","A, B, C, D, E","A","logic/question4.png"
+10564,1,"","A, B, C, D, E","B","logic/question5.png"
+10565,1,"","A, B, C, D, E","E","logic/question6.png"
+10566,1,"","A, B, C, D, E","E","logic/question7.png"
+10567,1,"","A, B, C, D, E","E","logic/question8.png"
+10568,1,"","A, B, C, D, E","E","logic/question9.png"
+10569,1,"","A, B, C, D, E","C","logic/question10.png"
+10570,1,"","A, B, C, D, E","E","logic/question11.png"
+10571,1,"","A, B, C, D, E","E","logic/question12.png"
+10572,1,"","A, B, C, D","C","logic/question13.png"
+10573,1,"","A, B, C, D, E","A","logic/question14.png"
+10574,1,"","A, B, C, D, E","B","logic/question15.png"
+10575,1,"","A, B, C, D","C","logic/question16.png"
+10576,1,"","A, B, C, D","D","logic/question17.png"
+10577,1,"","A, B, C, D, E","A","logic/question18.png"
+10578,1,"","A, B, C, D, E","A","logic/question19.png"
+10579,1,"","A, B, C, D, E","C","logic/question20.png"
+10580,56,"Which magazine published the headline?","The Economist, TIME, WIRED","WIRED","magazines/Question1.png"
+10581,56,"Which magazine published the headline?","The Economist, TIME, WIRED","The Economist","magazines/Question2.png"
+10582,56,"Which magazine published the headline?","The Economist, TIME, WIRED","WIRED","magazines/Question3.png"
+10583,56,"Which magazine published the headline?","The Economist, TIME, WIRED","WIRED","magazines/Question4.png"
+10584,56,"Which magazine published the headline?","The Economist, TIME, WIRED","The Economist","magazines/Question5.png"
+10585,56,"Which magazine published the headline?","The Economist, TIME, WIRED","The Economist","magazines/Question6.png"
+10586,56,"Which magazine published the headline?","The Economist, TIME, WIRED","WIRED","magazines/Question7.png"
+10587,56,"Which magazine published the headline?","The Economist, TIME, WIRED","TIME","magazines/Question8.png"
+10588,56,"Which magazine published the headline?","The Economist, TIME, WIRED","WIRED","magazines/Question9.png"
+10589,56,"Which magazine published the headline?","The Economist, TIME, WIRED","The Economist","magazines/Question10.png"
+10590,56,"Which magazine published the headline?","The Economist, TIME, WIRED","WIRED","magazines/Question11.png"
+10591,56,"Which magazine published the headline?","The Economist, TIME, WIRED","TIME","magazines/Question12.png"
+10592,56,"Which magazine published the headline?","The Economist, TIME, WIRED","WIRED","magazines/Question13.png"
+10593,56,"Which magazine published the headline?","The Economist, TIME, WIRED","The Economist","magazines/Question14.png"
+10594,56,"Which magazine published the headline?","The Economist, TIME, WIRED","WIRED","magazines/Question15.png"
+10595,56,"Which magazine published the headline?","The Economist, TIME, WIRED","The Economist","magazines/Question16.png"
+10596,56,"Which magazine published the headline?","The Economist, TIME, WIRED","TIME","magazines/Question17.png"
+10597,56,"Which magazine published the headline?","The Economist, TIME, WIRED","WIRED","magazines/Question18.png"
+10598,56,"Which magazine published the headline?","The Economist, TIME, WIRED","TIME","magazines/Question19.png"
+10599,56,"Which magazine published the headline?","The Economist, TIME, WIRED","WIRED","magazines/Question20.png"
+10600,15,"In which year was this movie released?","no answers","1993","movie_year/Schindler's_List.jpg"
+10601,15,"In which year was this movie released?","no answers","1964","movie_year/A_Fistful_Of_Dollars.jpg"
+10602,15,"In which year was this movie released?","no answers","1954","movie_year/Dial_M_For_Murder.jpg"
+10603,15,"In which year was this movie released?","no answers","2000","movie_year/Snatch.jpg"
+10604,15,"In which year was this movie released?","no answers","2000","movie_year/Memento.jpg"
+10605,15,"In which year was this movie released?","no answers","2008","movie_year/Wall-E.jpg"
+10606,15,"In which year was this movie released?","no answers","1946","movie_year/Notorious.jpg"
+10607,15,"In which year was this movie released?","no answers","1975","movie_year/Jaws.jpg"
+10608,15,"In which year was this movie released?","no answers","1968","movie_year/Once_Upon_A_Time_In_The_West.jpg"
+10609,15,"In which year was this movie released?","no answers","1955","movie_year/Diabolique.jpg"
+10610,15,"In which year was this movie released?","no answers","1994","movie_year/The_Lion_King.jpg"
+10611,15,"In which year was this movie released?","no answers","2009","movie_year/Up.jpg"
+10612,15,"In which year was this movie released?","no answers","2009","movie_year/Hachi_A_Dogs_Tale.jpg"
+10613,15,"In which year was this movie released?","no answers","1980","movie_year/The_Elephant_Man.jpg"
+10614,15,"In which year was this movie released?","no answers","2001","movie_year/The_Lord_Of_The_Rings_The_Fellowship_Of_The_Ring.jpg"
+10615,15,"In which year was this movie released?","no answers","1958","movie_year/Touch_Of_Evil.jpg"
+10616,15,"In which year was this movie released?","no answers","1995","movie_year/Casino.jpg"
+10617,15,"In which year was this movie released?","no answers","1980","movie_year/The_Shining.jpg"
+10618,15,"In which year was this movie released?","no answers","1982","movie_year/The_Thing.jpg"
+10619,15,"In which year was this movie released?","no answers","1955","movie_year/The_Night_Of_The_Hunter.jpg"
+10620,87,"What instrument is this?","French Horn, Trumpet, Saxophone, Trombone","Saxophone","musical_instruments/asset0.mp4"
+10621,87,"What instrument is this?","Xylophone, Piano, Electric Keyboard, Piccolo","Piano","musical_instruments/asset1.mp4"
+10622,87,"What instrument is this?","Piccolo, Oboe, Flute, Xylophone","Flute","musical_instruments/asset2.mp4"
+10623,87,"What instrument is this?","Ukulele, Harpsichord, Piano, Guitar","Harpsicord","musical_instruments/asset3.mp4"
+10624,87,"What instrument is this?","Viola, Violin, Cello, French Horn","Cello","musical_instruments/asset4.mp4"
+10625,87,"What instrument is this?","Cello, Trumpet, Tuba, Marimba","Tuba","musical_instruments/asset5.mp4"
+10626,87,"What instrument is this?","Viola, Clarinet, Guitar, Harp","Viola","musical_instruments/asset6.mp4"
+10627,87,"What instrument is this?","Xylophone, Drum, Piccolo, Cymbal","Cymbal","musical_instruments/asset7.mp4"
+10628,87,"What instrument is this?","Recorder, Flute, Piccolo, Triangle","Triangle","musical_instruments/asset8.mp4"
+10629,87,"What instrument is this?","Trumpet, French Horn, Oboe, Spanish Guitar","French Horn","musical_instruments/asset9.mp4"
+10630,87,"What instrument is this?","Cymbal, Flute, Clarinet, Organ","Organ","musical_instruments/asset10.mp4"
+10631,87,"What instrument is this?","Guitar, Violin, Harpsicord, Cello","Guitar","musical_instruments/asset11.mp4"
+10632,87,"What instrument is this?","Trombone, Trumpet, Oboe, Drum","Trumpet","musical_instruments/asset12.mp4"
+10633,87,"What instrument is this?","Cello, Violin, Piano, Harpsicord","Violin","musical_instruments/asset13.mp4"
+10634,87,"What instrument is this?","Trumpet, Electric guitar, Trombone, Tuba","Trombone","musical_instruments/asset14.mp4"
+10635,87,"What instrument is this?","Oboe, Viola, Tuba, French Horn","Oboe","musical_instruments/asset15.mp4"
+10636,87,"What instrument is this?","Guitar, Viola, Harp, Xylophone","Harp","musical_instruments/asset16.mp4"
+10637,87,"What instrument is this?","Electric guitar, Trombone, Double Bass, Bassoon","Bassoon","musical_instruments/asset17.mp4"
+10638,87,"What instrument is this?","Viola, Trumpet, French Horn, Double Bass","Double Bass","musical_instruments/asset18.mp4"
+10639,87,"What instrument is this?","Clarinet, Organ, Harpsicord, Flute","Clarinet","musical_instruments/asset19.mp4"
+10640,31,"Was this US election news story real?","Real, Fake","Real","news_real/Question1.png"
+10641,31,"Was this US election news story real?","Real, Fake","Fake","news_real/Question2.png"
+10642,31,"Was this US election news story real?","Real, Fake","Fake","news_real/Question3.png"
+10643,31,"Was this US election news story real?","Real, Fake","Real","news_real/Question4.png"
+10644,31,"Was this US election news story real?","Real, Fake","Fake","news_real/Question5.png"
+10645,31,"Was this US election news story real?","Real, Fake","Real","news_real/Question6.png"
+10646,31,"Was this US election news story real?","Real, Fake","Fake","news_real/Question7.png"
+10647,31,"Was this US election news story real?","Real, Fake","Fake","news_real/Question8.png"
+10648,31,"Was this US election news story real?","Real, Fake","Fake","news_real/Question9.png"
+10649,31,"Was this US election news story real?","Real, Fake","Fake","news_real/Question10.png"
+10650,31,"Was this US election news story real?","Real, Fake","Real","news_real/Question11.png"
+10651,31,"Was this US election news story real?","Real, Fake","Real","news_real/Question12.png"
+10652,31,"Was this US election news story real?","Real, Fake","Real","news_real/Question13.png"
+10653,31,"Was this US election news story real?","Real, Fake","Fake","news_real/Question14.png"
+10654,31,"Was this US election news story real?","Real, Fake","Fake","news_real/Question15.png"
+10655,31,"Was this US election news story real?","Real, Fake","Fake","news_real/Question16.png"
+10656,31,"Was this US election news story real?","Real, Fake","Real","news_real/Question17.png"
+10657,31,"Was this US election news story real?","Real, Fake","Real","news_real/Question18.png"
+10658,31,"Was this US election news story real?","Real, Fake","Fake","news_real/Question19.png"
+10659,31,"Was this US election news story real?","Real, Fake","Fake","news_real/Question20.png"
+10660,37,"What is the weight of this object (in pounds)?","no answers","306.5","object_weight/object_weight_1.jpg"
+10661,37,"What is the weight of this object (in pounds)?","no answers","11","object_weight/object_weight_2.jpg"
+10662,37,"What is the weight of this object (in pounds)?","no answers","2","object_weight/object_weight_3.jpg"
+10663,37,"What is the weight of this object (in pounds)?","no answers","13.75","object_weight/object_weight_4.jpg"
+10664,37,"What is the weight of this object (in pounds)?","no answers","1.25","object_weight/object_weight_5.jpg"
+10665,37,"What is the weight of this object (in pounds)?","no answers","200","object_weight/object_weight_6.jpg"
+10666,37,"What is the weight of this object (in pounds)?","no answers","1.93","object_weight/object_weight_7.jpg"
+10667,37,"What is the weight of this object (in pounds)?","no answers","4398.25","object_weight/object_weight_8.jpg"
+10668,37,"What is the weight of this object (in pounds)?","no answers","2","object_weight/object_weight_9.jpg"
+10669,37,"What is the weight of this object (in pounds)?","no answers","105.75","object_weight/object_weight_10.jpg"
+10670,37,"What is the weight of this object (in pounds)?","no answers","5.25","object_weight/object_weight_11.jpg"
+10671,37,"What is the weight of this object (in pounds)?","no answers","4.5","object_weight/object_weight_12.jpg"
+10672,37,"What is the weight of this object (in pounds)?","no answers","32.65","object_weight/object_weight_13.jpg"
+10673,37,"What is the weight of this object (in pounds)?","no answers","20","object_weight/object_weight_14.jpg"
+10674,37,"What is the weight of this object (in pounds)?","no answers","25","object_weight/object_weight_15.jpg"
+10675,37,"What is the weight of this object (in pounds)?","no answers","3.924","object_weight/object_weight_16.jpg"
+10676,37,"What is the weight of this object (in pounds)?","no answers","44.092","object_weight/object_weight_17.jpg"
+10677,37,"What is the weight of this object (in pounds)?","no answers","141.978","object_weight/object_weight_18.jpg"
+10678,37,"What is the weight of this object (in pounds)?","no answers","16.535","object_weight/object_weight_19.jpg"
+10679,37,"What is the weight of this object (in pounds)?","no answers","30","object_weight/object_weight_20.jpg"
+10680,86,"In what year was this painting created?","no answers","1497","painting_year/question1.png"
+10681,86,"In what year was this painting created?","no answers","1797","painting_year/question2.png"
+10682,86,"In what year was this painting created?","no answers","1889","painting_year/question3.png"
+10683,86,"In what year was this painting created?","no answers","1893","painting_year/question4.png"
+10684,86,"In what year was this painting created?","no answers","1931","painting_year/question5.png"
+10685,86,"In what year was this painting created?","no answers","1665","painting_year/question6.png"
+10686,86,"In what year was this painting created?","no answers","1937","painting_year/question7.png"
+10687,86,"In what year was this painting created?","no answers","1885","painting_year/question8.png"
+10688,86,"In what year was this painting created?","no answers","1907","painting_year/question9.png"
+10689,86,"In what year was this painting created?","no answers","1916","painting_year/question10.png"
+10690,86,"In what year was this painting created?","no answers","1935","painting_year/question11.png"
+10691,86,"In what year was this painting created?","no answers","1930","painting_year/question12.png"
+10692,86,"In what year was this painting created?","no answers","1964","painting_year/question13.png"
+10693,86,"In what year was this painting created?","no answers","1876","painting_year/question14.png"
+10694,86,"In what year was this painting created?","no answers","1903","painting_year/question15.png"
+10695,86,"In what year was this painting created?","no answers","1940","painting_year/question16.png"
+10696,86,"In what year was this painting created?","no answers","1486","painting_year/question17.png"
+10697,86,"In what year was this painting created?","no answers","1547","painting_year/question18.png"
+10698,86,"In what year was this painting created?","no answers","1512","painting_year/question19.png"
+10699,86,"In what year was this painting created?","no answers","1831","painting_year/question20.png"
+10700,85,"Which round will the Duke Blue Devils make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","2nd round",NA
+10701,85,"Which round will the Kentucky Wildcats make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","Elite Eight",NA
+10702,85,"Which round will the Kansas Jayhawks make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","Elite Eight",NA
+10703,85,"Which round will the Villanova Wildcats make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","2nd round",NA
+10704,85,"Which round will the Oregon Ducks make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","Final Four",NA
+10705,85,"Which round will the North Carolina Tar Heels make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","Champion",NA
+10706,85,"Which round will the Michigan State Spartans make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","Sweet Sixteen",NA
+10707,85,"Which round will the Oklahoma Sooners make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","1st round",NA
+10708,85,"Which round will the Virginia Cavaliers make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","2nd round",NA
+10709,85,"Which round will the Arizona Wildcats make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","Sweet Sixteen",NA
+10710,85,"Which round will the Indiana Hoosiers make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","None",NA
+10711,85,"Which round will the Xavier Musketeers make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","Elite Eight",NA
+10712,85,"Which round will the Wisconsin Badgers make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","Sweet Sixteen",NA
+10713,85,"Which round will the Syracuse Orange make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","None",NA
+10714,85,"Which round will the Miami Hurricanes make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","1st round",NA
+10715,85,"Which round will the Purdue Boilermakers make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","Sweet Sixteen",NA
+10716,85,"Which round will the West Virginia Mountaineers make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","Sweet Sixteen",NA
+10717,85,"Which round will the Maryland Terrapins make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","1st round",NA
+10718,85,"Which round will the Iowa State Cyclones make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","2nd round",NA
+10719,85,"Which round will the Texas Longhorns make it to in the 2017 NCAA Tournament?","1st round, 2nd round, Sweet Sixteen, Elite Eight, Final Four, Champion","None",NA
+10720,20,"What is the likelihood that the price of an Amazon share will be +ACQ-1,000 or more before 1 April 2017? Amazon's stock price was +ACQ-796 on January 9, 2017.","no answers","0",NA
+10721,20,"What is the likelihood that the Dakota Access Pipeline will begin transporting oil before 1 October 2017?","no answers","0",NA
+10722,20,"What is the likelihood that SpaceX will launch the Falcon Heavy rocket into low earth orbit before 1 April 2017?","no answers","0",NA
+10723,20,"What is the likelihood that an Uber self+AC0-driving car with a member of the public as a passenger will be involved in an auto accident while driving autonomously in 2017?","no answers","0",NA
+10724,20,"What is the likelihood that Google will announce that it will conduct public testing of its fully autonomous vehicles in a US city before 1 March, 2017?","no answers","0",NA
+10725,20,"What is the likelihood that Uber will launch its Initial Public Offering (IPO) before 1 October 2017?","no answers","0",NA
+10726,20,"What is the likelihood that the iPhone 7S to be released in 2017 will remove the traditional Home button and add a curved display?","no answers","0",NA
+10727,20,"Before 30 April 2017, will the U.S. provide notice of intent to withdraw from NAFTA?","no answers","0",NA
+10728,20,"What is the likelihood that Microsoft's new video game console, Xbox Project Scorpio, will be available in stores before 1 October 2017?","no answers","0",NA
+10729,20,"What is the likelihood that Amazon's Echo, a new high+AC0-end voice+AC0-activated speaker with a 7+AC0-inch touchscreen display, will be available in stores before 1 April 2017?","no answers","0",NA
+10730,20,"What is the likelihood that Google's Pixel 3 laptop, a 12.9+AC0-inch laptop+AC0-tablet hybrid, will be available in stores before 1 October 2017?","no answers","0",NA
+10731,20,"What is the likelihood that Samsung will release a large, stylus+AC0-equipped phone before 1 October 2017?","no answers","0",NA
+10732,20,"What is the likelihood that Microsoft will release a Surface Phone before 1 October 2017?","no answers","0",NA
+10733,20,"What is the likelihood that Google will release a new Android Wear smartwatch by 1 July 2017?","no answers","0",NA
+10734,20,"What is the likelihood that Tesla Motors will begin production of its Model 3 model in 2017?","no answers","0",NA
+10735,20,"What is the likelihood that Apple will release a new 10.9+AC0-inch iPad Pro before 1 April 2017?","no answers","0",NA
+10736,20,"What is the likelihood that Fitbit will release a new form factor for its fitness trackers before 1 October 2017?","no answers","0",NA
+10737,20,"What is the likelihood that Snapchat will launch its Initial Public Offering (IPO) before 1 April 2017?","no answers","0",NA
+10738,20,"What is the likelihood that Apple will remove the traditional Home button on at least one of its iPad models before 1 April 2017?","no answers","0",NA
+10739,20,"What is the likelihood that Microsoft will release the Cortana smart speakers before 1 October 2017?","no answers","0",NA
+10740,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","53","prediction_movie_rating/fifty_shades_darker.mp4"
+10741,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","82","prediction_movie_rating/lego_batman_movie.mp4"
+10742,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","40","prediction_movie_rating/american_violence.mp4"
+10743,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","84","prediction_movie_rating/the_shack.mp4"
+10744,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","74","prediction_movie_rating/kong_skull_island.mp4"
+10745,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","89","prediction_movie_rating/john_wick.mp4"
+10746,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","28","prediction_movie_rating/rings.mp4"
+10747,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","62","prediction_movie_rating/boss_baby.mp4"
+10748,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","62","prediction_movie_rating/ghost_in_the_shell.mp4"
+10749,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","49","prediction_movie_rating/the_great_wall.mp4"
+10750,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","62","prediction_movie_rating/the_space_between_us.mp4"
+10751,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","92","prediction_movie_rating/logan.mp4"
+10752,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","None","prediction_movie_rating/patient_zero.mp4"
+10753,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","47","prediction_movie_rating/fist_fight.mp4"
+10754,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","79","prediction_movie_rating/fast_and_furious_8.mp4"
+10755,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","25","prediction_movie_rating/the_circle.mp4"
+10756,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","72","prediction_movie_rating/smurfs_lost_village.mp4"
+10757,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","85","prediction_movie_rating/beauty_and_beast.mp4"
+10758,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","79","prediction_movie_rating/leap.mp4"
+10759,101,"What do you think the rating for this movie will be on Rotten Tomatoes? Enter a number between 0+AC0-100, where 0 is the worst rating, 100 is the best rating.","no answers","60","prediction_movie_rating/life.mp4"
+10760,75,"What is the likelihood that La La Land will win the Academy Award for Best Picture? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","82","prediction_oscars/question1.png"
+10761,75,"What is the likelihood that Manchester by the Sea will win the Academy Award for Best Picture? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","2","prediction_oscars/question2.png"
+10762,75,"What is the likelihood that Emma Stone will win the Academy Award for Best Actress in a Leading Role? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","82","prediction_oscars/question3.png"
+10763,75,"What is the likelihood that Meryl Streep will win the Academy Award for Best Actress in a Leading Role? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","1","prediction_oscars/question4.png"
+10764,75,"What is the likelihood that Andrew Garfield will win the Academy Award for Best Actor in a Leading Role? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","2","prediction_oscars/question5.png"
+10765,75,"What is the likelihood that Denzel Washington will win the Academy Award for Best Actor in a Leading Role? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","40","prediction_oscars/question6.png"
+10766,75,"What is the likelihood that Denis Villeneuve will win the Academy Award for Best Director? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","1","prediction_oscars/question7.png"
+10767,75,"What is the likelihood that Barry Jenkins will win the Academy Award for Best Director? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","7","prediction_oscars/question8.png"
+10768,75,"What is the likelihood that Zootopia will win the Academy Award for Best Animated Feature Film? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","68","prediction_oscars/question9.png"
+10769,75,"What is the likelihood that Kubo and the Two Strings will win the Academy Award for Best Animated Feature Film? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","24","prediction_oscars/question10.png"
+10770,75,"What is the likelihood that Hell or High Water will win the Academy Award for Best Original Screenplay? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","7","prediction_oscars/question11.png"
+10771,75,"What is the likelihood that The Lobster will win the Academy Award for Best Original Screenplay? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","3","prediction_oscars/question12.png"
+10772,75,"What is the likelihood that Jeff Bridges will win the Academy Award for Best Actor in a Supporting Role? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","5","prediction_oscars/question13.png"
+10773,75,"What is the likelihood that Dev Patel will win the Academy Award for Best Actor in a Supporting Role? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","9","prediction_oscars/question14.png"
+10774,75,"What is the likelihood that Michelle Williams will win the Academy Award for Best Actress in a Supporting Role? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","2","prediction_oscars/question15.png"
+10775,75,"What is the likelihood that Octavia Spencer will win the Academy Award for Best Actress in a Supporting Role? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","1","prediction_oscars/question16.png"
+10776,75,"What is the likelihood that Jackie will win the Academy Award for Costume Design? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","39","prediction_oscars/question17.png"
+10777,75,"What is the likelihood that Fantastic Beasts and Where to Find Them will win the Academy Award for Costume Design? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","3","prediction_oscars/question18.png"
+10778,75,"What is the likelihood that Arrival will win the Academy Award for Cinematography? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","5","prediction_oscars/question19.png"
+10779,75,"What is the likelihood that Silence will win the Academy Award for Cinematography? Please enter a number between 0 and 100, where 0 means there's no way it will win, and 100 means it will definitely win.","no answers","3","prediction_oscars/question20.png"
+10780,102,"What is the likelihood that Congress will pass a resolution to amend the Constitution, abolishing the Electoral College, by end of 2017? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","2",NA
+10781,102,"What is the likelihood that Donald Trump will travel to Russia in his first 100 days? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","13",NA
+10782,102,"What is the likelihood that William H. Pryor, Jr. will be the next U.S. Supreme Court justice? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","19",NA
+10783,102,"What is the likelihood that Democrats will control the House after the 2018 midterm elections? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","25",NA
+10784,102,"What is the likelihood that Republicans will win the White House in 2020? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","49",NA
+10785,102,"What is the likelihood that Angela Merkel will be elected chancellor of Germany in 2017? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","48",NA
+10786,102,"What is the likelihood that Trump will move the U.S. embassy to Jerusalem in 2017? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","45",NA
+10787,102,"What is the likelihood that Trump will sign a bill without majority GOP support in 2017? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","16",NA
+10788,102,"What is the likelihood that Trump will withdraw from the Paris climate change treaty in 2017? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","45",NA
+10789,102,"What is the likelihood that Ruth Bader Ginsburg will be the next justice to leave the Supreme Court? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","46",NA
+10790,102,"What is the likelihood that Hillary Clinton will face charges in 2017? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","21",NA
+10791,102,"What is the likelihood that the Affordable Care Act plan subsidies will be repealed by the end of 2017? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","64",NA
+10792,102,"What is the likelihood that the individual tax rate will be cut before the end of 2017? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","82",NA
+10793,102,"What is the likelihood that Congress will ratify the Trans+AC0-Pacific Partnership in 2017? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","5",NA
+10794,102,"What is the likelihood that a federal minimum wage increase will go into effect by year+AC0-end 2017? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","27",NA
+10795,102,"What is the likelihood that the corporate tax rate will be cut by the end of 2017? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","82",NA
+10796,102,"What is the likelihood that Marine Le Pen will be elected president of France in 2017? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","34",NA
+10797,102,"What is the likelihood that Donald Trump will travel to Taiwan in 2017? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","42",NA
+10798,102,"What is the likelihood that Janet Yellen will be Federal Reserve chair on June 30, 2017? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","20",NA
+10799,102,"What is the likelihood that Republicans will control the Senate after the 2018 midterm elections? Enter a number between 0+AC0-100, where 0 means no way it will happen, and 100 means it will definitely happen.","no answers","20",NA
+10800,90,"How many times will the following message be re+AC0-tweeted?","no answers","10337","retweets/KP_1.png"
+10801,90,"How many times will the following message be re+AC0-tweeted?","no answers","9909","retweets/KP_2.png"
+10802,90,"How many times will the following message be re+AC0-tweeted?","no answers","10405","retweets/KP_3.png"
+10803,90,"How many times will the following message be re+AC0-tweeted?","no answers","7505","retweets/KP_4.png"
+10804,90,"How many times will the following message be re+AC0-tweeted?","no answers","41120","retweets/KP_5.png"
+10805,90,"How many times will the following message be re+AC0-tweeted?","no answers","9519","retweets/KP_6.png"
+10806,90,"How many times will the following message be re+AC0-tweeted?","no answers","128482","retweets/KP_7.png"
+10807,90,"How many times will the following message be re+AC0-tweeted?","no answers","14555","retweets/KP_8.png"
+10808,90,"How many times will the following message be re+AC0-tweeted?","no answers","7915","retweets/KP_9.png"
+10809,90,"How many times will the following message be re+AC0-tweeted?","no answers","13880","retweets/KP_10.png"
+10810,90,"How many times will the following message be re+AC0-tweeted?","no answers","7884","retweets/KP_11.png"
+10811,90,"How many times will the following message be re+AC0-tweeted?","no answers","10045","retweets/KP_12.png"
+10812,90,"How many times will the following message be re+AC0-tweeted?","no answers","39172","retweets/KP_13.png"
+10813,90,"How many times will the following message be re+AC0-tweeted?","no answers","105160","retweets/KP_14.png"
+10814,90,"How many times will the following message be re+AC0-tweeted?","no answers","26396","retweets/KP_15.png"
+10815,90,"How many times will the following message be re+AC0-tweeted?","no answers","3356","retweets/KP_16.png"
+10816,90,"How many times will the following message be re+AC0-tweeted?","no answers","36116","retweets/KP_17.png"
+10817,90,"How many times will the following message be re+AC0-tweeted?","no answers","8095","retweets/KP_18.png"
+10818,90,"How many times will the following message be re+AC0-tweeted?","no answers","23080","retweets/KP_19.png"
+10819,90,"How many times will the following message be re+AC0-tweeted?","no answers","7516","retweets/KP_20.png"
+10820,54,"Which of the following is a synonym for abhor?","hinder,hate,forgive,pardon,release","hate",NA
+10821,54,"Which of the following is a synonym for bigot?","desist,aloof,withdraw,narrow minded,hinder","narrow minded",NA
+10822,54,"Which of the following is a synonym for enfranchise?","flimsy,kindle,suffrage,maze,improve","suffrage",NA
+10823,54,"Which of the following is a synonym for kindle?","ignite,noise,maze,full,empty","ignite",NA
+10824,54,"Which of the following is a synonym for noxious?","harmful,free spirited,carefree,unbiased,free","harmful",NA
+10825,54,"Which of the following is a synonym for placid?","calm,kindle,fake,hard,threat","calm",NA
+10826,54,"Which of the following is a synonym for remuneration?","payment,harm,threat,robbery,fop","payment",NA
+10827,54,"Which of the following is a synonym for talisman?","hurry,accelerate,lucky charm,rush,obvious","lucky charm",NA
+10828,54,"Which of the following is a synonym for bilk?","pillory,clarity,accent,cheat,articulation","cheat",NA
+10829,54,"Which of the following is a synonym for knotty?","easy,complex,meticulous,spin,move","complex",NA
+10830,54,"Which of the following is a synonym for billowing?","dull,monotonous,bland,rush,swelling","swelling",NA
+10831,54,"Which of the following is a synonym for harangue?","respite,postpone,flimsy,fulmination,sloven","fulmination",NA
+10832,54,"Which of the following is a synonym for plaintiff?","petitioner,hurry,accelerate,rush,butch","petitioner",NA
+10833,54,"Which of the following is a synonym for opportune?","opportunity,appropriate,flimsy,placid,kindle","appropriate",NA
+10834,54,"Which of the following is a synonym for recalcitrant?","talisman,asinine,nincompoop,refractory,knotty","refractory",NA
+10835,54,"Which of the following is a synonym for obfuscate?","ignite,noise,garble,refractory,swell","garble",NA
+10836,54,"Which of the following is a synonym for hedonism?","glutton,flimsy,hinder,pleasure seeking,sadist","pleasure seeking",NA
+10837,54,"Which of the following is a synonym for obliterate?","annihilate,placid,stentorian,hedonist,abhor","annihilate",NA
+10838,54,"Which of the following is a synonym for protean?","placid,steady,erratic,extreme,accent","erratic",NA
+10839,54,"Which of the following is a synonym for peurile?","callow,trial,placid,knotty,ignoble","callow",NA
+10840,91,"","A, B, C, D, E","E","soft_skills/question1.png"
+10841,91,"","A, B, C, D","B","soft_skills/question2.png"
+10842,91,"","A, B, C, D","A","soft_skills/question3.png"
+10843,91,"","A, B, C, D","A","soft_skills/question4.png"
+10844,91,"","A, B, C, D","D","soft_skills/question5.png"
+10845,91,"","A, B, C, D","C","soft_skills/question6.png"
+10846,91,"","A, B, C, D","D","soft_skills/question7.png"
+10847,91,"","A, B, C, D","B","soft_skills/question8.png"
+10848,91,"","A, B, C, D, E","B","soft_skills/question9.png"
+10849,91,"","A, B, C, D, E","B","soft_skills/question10.png"
+10850,91,"","A, B, C, D","D","soft_skills/question11.png"
+10851,91,"","A, B, C, D","D","soft_skills/question12.png"
+10852,91,"","A, B, C, D","A","soft_skills/question13.png"
+10853,91,"","A, B, C, D","C","soft_skills/question14.png"
+10854,91,"","A, B, C, D","D","soft_skills/question15.png"
+10855,91,"","A, B, C, D","D","soft_skills/question16.png"
+10856,91,"","A, B, C, D","D","soft_skills/question17.png"
+10857,91,"","A, B, C, D","B","soft_skills/question18.png"
+10858,91,"","A, B, C, D","C","soft_skills/question19.png"
+10859,91,"","A, B, C, D","B","soft_skills/question20.png"
+10860,53,"In which of the following movies was this featured as a theme song?","My Fair Lady, Mary Poppins, The Sound of Music, Oliver, The Wizard of Oz","The Sound Of Music","song_movie/asset1.mp3"
+10861,53,"In which of the following movies was this featured as a theme song?","Mary Poppins, The Sound of Music, Chitty Chitty Bang Bang, The Jungle Book, My Fair Lady","Mary Poppins","song_movie/asset2.mp3"
+10862,53,"In which of the following movies was this featured as a theme song?","Goodfellas, The Godfather, Chinatown, Scarface, The Shawshank Redemption","The Godfather","song_movie/asset3.mp3"
+10863,53,"In which of the following movies was this featured as a theme song?","Raiders of the Lost Ark, Jaws, Jurassic Park, Alien, Close Encounters of the Third Kind","Jaws","song_movie/asset4.mp3"
+10864,53,"In which of the following movies was this featured as a theme song?","Star Wars, Raiders of the Lost Ark, Back to the Future, Star Trek, E.T. Extra Terrestrial","Star Wars","song_movie/asset5.mp3"
+10865,53,"In which of the following movies was this featured as a theme song?","E.T. Extra Terrestrial, Jurassic Park, Close Encounters of the Third Kind, Alien, Aliens","E.T. Extra Terrestrial","song_movie/asset6.mp3"
+10866,53,"In which of the following movies was this featured as a theme song?","Beauty and the Beast, Aladdin, Peter Pan, The Little Mermaid, Cinderella","The Little Mermaid","song_movie/asset7.mp3"
+10867,53,"In which of the following movies was this featured as a theme song?","Cry Freedom, Empire of the Sun, The Untouchables, A Passage to India, The Last Emperor","The Last Emperor","song_movie/asset8.mp3"
+10868,53,"In which of the following movies was this featured as a theme song?","Apollo 13, The Right Stuff, 2001: A Space Odyssey, Chariots of Fire, Full Metal Jacket","The Right Stuff","song_movie/asset9.mp3"
+10869,53,"In which of the following movies was this featured as a theme song?","The Little Mermaid, Sleeping Beauty, Beauty and the Beast, Snow White and the Seven Dwarfs, The Lion King","Beauty and the Beast","song_movie/asset10.mp3"
+10870,53,"In which of the following movies was this featured as a theme song?","Forest Gump, The Shawshank Redemption, Braveheart, Schindler's List, Saving Private Ryan","Schindler's List","song_movie/asset11.mp3"
+10871,53,"In which of the following movies was this featured as a theme song?","The English Patient, Titanic, Shakespeare in Love, American Beauty, Emma","Titanic","song_movie/asset12.mp3"
+10872,53,"In which of the following movies was this featured as a theme song?","Aladdin, Toy Story, Shrek, Ice Age, The Lion King","The Lion King","song_movie/asset13.mp3"
+10873,53,"In which of the following movies was this featured as a theme song?","The Pianist, Forest Gump, Saving Private Ryan, Schindle's List, Life is Beautiful","Life is Beautiful","song_movie/asset14.mp3"
+10874,53,"In which of the following movies was this featured as a theme song?","Matrix, Star Wars: Episode 1 The Phantom Menace, The Lord of the Rings, Hobbit, Gladiator","The Lord of the Rings","song_movie/asset15.mp3"
+10875,53,"In which of the following movies was this featured as a theme song?","Slumdog Millionaire, Life of Pi, Crouching Tiger Hidden Dragon, The Darjeeling Limited, A Passage through India","Slumdog Millionaire","song_movie/asset16.mp3"
+10876,53,"In which of the following movies was this featured as a theme song?","Finding Nemo, Toy Story, Up, Monsters Inc., Shrek","Up","song_movie/asset17.mp3"
+10877,53,"In which of the following movies was this featured as a theme song?","Slumdog Millionaire, Life of Pi, Anna Karenina, The Darjeeling Limited, A Passage through India","Life of Pi","song_movie/asset18.mp3"
+10878,53,"In which of the following movies was this featured as a theme song?","Interstellar, Apollo 13, The Theory of Everything, Inception, Gravity","Gravity","song_movie/asset19.mp3"
+10879,53,"In which of the following movies was this featured as a theme song?","Birdman, The Darjeeling Limited, The Artist, The Grand Budapest Hotel, Moonrise Kingdom","The Grand Budapest Hotel","song_movie/asset20.mp3"
+10880,71,"","A, B, C, D, E, F, G, H","H","spatial_reasoning/question1.png"
+10881,71,"","A, B, C, D, E, F, G, H","A","spatial_reasoning/question2.png"
+10882,71,"","A, B, C, D, E, F, G, H","D","spatial_reasoning/question3.png"
+10883,71,"","A, B, C, D, E, F, G, H","D","spatial_reasoning/question4.png"
+10884,71,"","A, B, C, D","B","spatial_reasoning/question5.png"
+10885,71,"","A, B, C, D","A","spatial_reasoning/question6.png"
+10886,71,"","A, B, C, D","A","spatial_reasoning/question7.png"
+10887,71,"","A, B, C, D","C","spatial_reasoning/question8.png"
+10888,71,"","A, B, C, D","B","spatial_reasoning/question9.png"
+10889,71,"","A, B, C, D","C","spatial_reasoning/question10.png"
+10890,71,"","A, B, C, D","A","spatial_reasoning/question11.png"
+10891,71,"","A, B, C, D","A","spatial_reasoning/question12.png"
+10892,71,"","1, 2, 3, 4, 5, 6","3","spatial_reasoning/question13.png"
+10893,71,"","A, B, C, D","D","spatial_reasoning/question14.png"
+10894,71,"","A, B, C, D","C","spatial_reasoning/question15.png"
+10895,71,"","A, B, C, D","B","spatial_reasoning/question16.png"
+10896,71,"","A, B, C, D, E, F, G, H","E","spatial_reasoning/question17.png"
+10897,71,"","A, B, C, D, E, F, G, H","C","spatial_reasoning/question18.png"
+10898,71,"","A, B, C, D, E, F, G, H","B","spatial_reasoning/question19.png"
+10899,71,"","A, B, C, D, E, F, G, H","D","spatial_reasoning/question20.png"
+10900,4,"What is the species of this tree?","Chinese Pine, Ash, Ginko, Boab","Ginko","trees/question1.jpg"
+10901,4,"What is the species of this tree?","Holly, Redwood, Spruce, Fir Tree","Holly","trees/question2.png"
+10902,4,"What is the species of this tree?","Oak, Maple, Ironwood, Ash","Ash","trees/question3.jpg"
+10903,4,"What is the species of this tree?","Maple, Beech, White Oak, Chesnut","White Oak","trees/question4.png"
+10904,4,"What is the species of this tree?","Chestnut, Birch, Redwood, Weeping Willow","Weeping Willow","trees/question5.png"
+10905,4,"What is the species of this tree?","White Ash, Sycamore, Red Oak, Sugar Maple","Sycamore","trees/question6.png"
+10906,4,"What is the species of this tree?","Red Maple, Beech, Sugar Maple, Pecan","Sugar Maple","trees/question7.png"
+10907,4,"What is the species of this tree?","Dogwood, Hickory, Elm, Tree of Heaven","Dogwood","trees/question8.png"
+10908,4,"What is the species of this tree?","Oak, Cedar, Ash, Elm","Cedar","trees/question9.png"
+10909,4,"What is the species of this tree?","Sycamore, Silver Birch, Banyan, Weeping Willow","Silver Birch","trees/question10.png"
+10910,4,"What is the species of this tree?","Western Hemlock, Elm, Beech, Poplar","Poplar","trees/question11.jpg"
+10911,4,"What is the species of this tree?","Banyan, Tree of Life, Ginko, Baobab","Banyan","trees/question12.png"
+10912,4,"What is the species of this tree?","Giant Sequoia, Redwood, Mahogany, Maple","Giant Sequoia","trees/question13.png"
+10913,4,"What is the species of this tree?","Spruce, Monkey Puzzle, Black Pine, Chinese Pine","Monkey Tree","trees/question14.png"
+10914,4,"What is the species of this tree?","Lemon tree, Cherry Tree, Apple Tree, Olive Tree","Olive Tree","trees/question15.png"
+10915,4,"What is the species of this tree?","Red Maple, Japanese Maple, Junpier, Sugar Maple","Japanese Maple","trees/question16.png"
+10916,4,"What is the species of this tree?","Spruce, Eucalyptus, Sycamore, Ginko","Eucalyptus","trees/question17.png"
+10917,4,"What is the species of this tree?","Oak, Giant Sequoia, Redwood, Ironwood","Redwood","trees/question18.png"
+10918,4,"What is the species of this tree?","Silver Birch, Sycamore, Mahogany, Chestnut","Chestnut","trees/question19.png"
+10919,4,"What is the species of this tree?","Juniper, Douglas Fir, Spruce, Western Hemlock","Douglas Fir","trees/question20.jpg"
